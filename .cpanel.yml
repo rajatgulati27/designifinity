@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home4/quirkbu1/designifinity.com
+    - /bin/cp $DEPLOYPATH
