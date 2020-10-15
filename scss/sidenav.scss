@@ -1,14 +1,11 @@
 .navGroup {
     float: right;
     position: fixed;
-    right: 0;
-    top: 0;
+    right: 30px;
+    top: 40px;
     z-index: 999;
     display: flex;
-    width: 100px;
-    height: 100px;
     justify-content: center;
-    padding-top: 52px;
 
     >a {
         font-size: 1.8rem;
@@ -29,6 +26,12 @@
         background-color: #bd5d38;
         z-index: 9;
 
+        @media (max-width: $layout-breakpoint-small) {
+            width: 100%;
+            display: none;
+            z-index: 99;
+        }
+
         .navbar-brand {
             display: flex;
             padding: 0.5rem;
@@ -45,6 +48,12 @@
                     font-weight: 800;
                     letter-spacing: 0.05rem;
                     text-transform: uppercase;
+
+                    @media (max-width: $layout-breakpoint-small) {
+                        display: block;
+                        position: relative;
+                        z-index: 999;
+                    }
                 }
             }
         }
@@ -57,31 +66,15 @@
             }
         }
     }
+
+    &.show {
+        @media (max-width: $layout-breakpoint-small) {
+            nav#sideNav {
+                display: flex;
+            }
+        }
+    }
 }
 
 // variables
 $layout-breakpoint-small: 600px;
-
-// media queries
-@media (max-width: $layout-breakpoint-small) {
-
-    .navGroup {
-        background: #fff;
-
-        nav#sideNav {
-            width: 100%;
-            display: none;
-            z-index: 99;
-        }
-
-        >a {
-            display: block;
-            position: relative;
-            z-index: 999;
-        }
-
-        &.show nav#sideNav {
-            display: flex;
-        }
-    }
-}
