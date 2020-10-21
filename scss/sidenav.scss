@@ -1,6 +1,6 @@
 .navGroup {
     float: right;
-    position: fixed;
+    position: absolute;
     right: 30px;
     top: 40px;
     z-index: 999;
@@ -8,8 +8,13 @@
     justify-content: center;
 
     >a {
+        visibility: hidden;
         font-size: 1.8rem;
-        display: none;
+        z-index: 999;
+
+        @media (max-width: $layout-breakpoint-small) {
+            visibility: visible;
+        }
     }
 
     nav#sideNav {

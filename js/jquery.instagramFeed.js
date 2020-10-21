@@ -210,7 +210,7 @@ $(window).on('load', function () {
         'display_profile': false,
         'display_biography': true,
         'display_igtv': false,
-        'items': 10,
+        'items': 20,
         'items_per_row': 4,
         'margin': 0.9,
         'display_gallery': true,

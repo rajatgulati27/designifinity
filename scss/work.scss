@@ -1,4 +1,10 @@
 section#work {
+    background: #16181f;
+
+    h2 {
+        color: #ffffff;
+    }
+
     .workCategories {
         .categoryGroup {
             display: flex;
@@ -6,25 +12,29 @@ section#work {
             align-items: flex-start;
             overflow: hidden;
             height: 25rem;
+            position: relative;
 
             @media (max-width: $layout-breakpoint-small) {
-                height: auto;
+                height: 68vh;
             }
 
             .category {
                 min-width: 33%;
-                border-right: 10px solid #fff;
+                border-right: 10px solid transparent;
                 overflow: hidden;
                 display: inline-block;
-                position: relative;
                 cursor: pointer;
                 transition-timing-function: ease-in-out;
                 transition-duration: 0.5s;
                 height: 100%;
 
                 @media (max-width: $layout-breakpoint-small) {
-                    height: 3.125rem;
                     overflow: initial;
+                    min-width: initial;
+                    white-space: pre;
+                    display: flex;
+                    align-items: flex-start;
+                    height: initial;
                 }
 
                 &.minWidth {
@@ -48,13 +58,7 @@ section#work {
                     text-decoration: none !important;
 
                     &.title {
-                        @include labelTag();
                         display: none;
-
-                        &.active {
-                            background: rgba($color: $primary, $alpha: 1.0);
-                            color: #ffffff;
-                        }
 
                         @media (max-width: $layout-breakpoint-small) {
                             display: inline-block;
@@ -62,13 +66,14 @@ section#work {
                             left: 0;
                             transform: none;
                             top: 0;
-                            width: 100%;
                             text-align: center;
-                            padding: 0.375rem 1rem 0.375rem 1rem;
                             font-size: 1rem;
-                            background: rgba($color: $primary, $alpha: 0.15);
-                            color: $primary;
+                            background: #3c2a2a;
+                            color: #bd5d38;
                             font-weight: 500;
+                            height: fit-content;
+                            padding: 4px 16px 6px 16px;
+                            border-radius: 30px;
                         }
                     }
                 }
@@ -83,9 +88,10 @@ section#work {
                     height: 100%;
 
                     @media (max-width: $layout-breakpoint-small) {
-                        height: 117px;
-                        width: 117px;
+                        width: initial;
                         overflow: initial;
+                        display: inherit;
+                        height: initial;
                     }
 
                     span.close {
@@ -104,30 +110,24 @@ section#work {
                         }
 
                         &:hover {
-                            color: rgba(255, 255, 255, 1);
-                            transition-timing-function: ease-in-out;
-                            transition-duration: 0.3s;
+                            svg {
+                                color: #fff;
+                                transition-timing-function: ease-in-out;
+                                transition-duration: 0.3s;
+                                transform: rotate(180deg);
+                            }
                         }
                     }
 
                     figure {
                         width: 100%;
                         height: 100%;
-                        margin: 0 auto;
-                        display: flex;
-                        justify-content: center;
+                        background-size: cover;
+                        background-repeat: no-repeat;
+                        background-position: center;
 
                         @media (max-width: $layout-breakpoint-small) {
                             display: none;
-                        }
-
-                        img {
-                            width: auto;
-                            height: 100%;
-
-                            @media (max-width: $layout-breakpoint-small) {
-                                width: 100%;
-                            }
                         }
                     }
                 }
@@ -145,13 +145,19 @@ section#work {
                     @include scrollBar();
 
                     @media (max-width: $layout-breakpoint-small) {
-                        display: none;
+                        top: 5.2rem;
+                        right: 125%;
+                        width: 100%;
                     }
 
                     .instagram_gallery {
                         float: right;
                         width: calc(100% - 8px);
                         cursor: initial;
+
+                        @media (max-width: $layout-breakpoint-small) {
+                            width: 100%;
+                        }
 
                         a {
                             >img {
@@ -162,6 +168,7 @@ section#work {
 
                                 @media (max-width: $layout-breakpoint-small) {
                                     background: rgba($color: $primary, $alpha: 1.0);
+                                    width: calc(50% - 5px) !important;
                                 }
                             }
                         }
@@ -174,10 +181,20 @@ section#work {
                     min-width: 100%;
                     transition-delay: 0.2s;
 
+                    @media (max-width: $layout-breakpoint-small) {
+                        min-width: initial;
+                    }
+
                     .instagram_feed {
                         transition-timing-function: ease-in-out;
                         transition-duration: 0.4s;
                         top: 0%;
+
+                        @media (max-width: $layout-breakpoint-small) {
+                            top: 5.2rem;
+                            right: 0%;
+                            width: 100%;
+                        }
                     }
 
                     .categoryImage {
@@ -187,8 +204,14 @@ section#work {
                         transition-duration: 0.4s;
                         width: 24%;
 
+                        @media (max-width: $layout-breakpoint-small) {
+                            width: 100%;
+                        }
+
                         span.close {
-                            top: 50%;
+                            top: 45%;
+                            transition-timing-function: ease-in-out;
+                            transition-duration: 0.4s;
                         }
                     }
 
@@ -203,9 +226,35 @@ section#work {
                             background: rgba($color: $primary, $alpha: 0.85);
                         }
                     }
+
+                    a {
+                        &.title {
+                            background: rgba($color: $primary, $alpha: 1.0);
+                            color: #ffffff;
+                        }
+                    }
+                }
+
+                &.mobileActive {
+                    .instagram_feed {
+                        @media (max-width: $layout-breakpoint-small) {
+                            top: 5.2rem;
+                            right: 0%;
+                            width: 100%;
+                        }
+                    }
+
+                    @media (max-width: $layout-breakpoint-small) {
+                        a {
+                            &.title {
+                                background: rgba($color: $primary, $alpha: 1.0);
+                                color: #ffffff;
+                            }
+                        }
+                    }
+
                 }
             }
-
         }
     }
 }

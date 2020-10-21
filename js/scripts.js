@@ -57,9 +57,24 @@
         });
         $(".workCategories .categoryGroup .category span.close").click(function () {
             $(this).parent().parent().removeClass("active");
-            $(this).parent().parent().siblings().addClass("minWidth");
+            $(this).parent().parent().siblings().removeClass("minWidth");
+        });
+        $(".workCategories .categoryGroup .category a.title").click(function () {
+            $(this).parent().parent().addClass("active");
+            $(this).parent().parent().removeClass("mobileActive");
+            $(this).parent().parent().siblings().removeClass("active");
+            $(this).parent().parent().siblings().removeClass("mobileActive");
         });
     });
+
+    // skills
+    $(document).ready(function () {
+        $("section#skills .resume-section-content article").click(function () {
+            $(this).toggleClass("active");
+            $(this).siblings().removeClass("active");
+        });
+    });
+
 })(jQuery); // End of use strict
 
 // animation text
