@@ -102,7 +102,7 @@ section#work {
                     span.close {
                         position: absolute;
                         font-size: 0;
-                        color: #333;
+                        color: #234b73;
                         z-index: 9;
                         left: 7px;
                         top: 50%;
@@ -243,6 +243,7 @@ section#work {
                                 height: 42px;
                                 transition-timing-function: ease-in-out;
                                 transition-duration: 0.25s;
+                                box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.2);
                             }
                         }
                     }
