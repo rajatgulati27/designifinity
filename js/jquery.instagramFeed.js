@@ -216,3 +216,4 @@ $(window).on('load', function () {
         'display_gallery': true,
     });
 });
+
