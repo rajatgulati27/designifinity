@@ -3,14 +3,14 @@
     position: absolute;
     right: 30px;
     top: 40px;
-    z-index: 999;
+    z-index: 99;
     display: flex;
     justify-content: center;
 
     >a {
         visibility: hidden;
         font-size: 1.8rem;
-        z-index: 999;
+        z-index: 99;
 
         @media (max-width: $layout-breakpoint-small) {
             visibility: visible;
@@ -57,7 +57,7 @@
                     @media (max-width: $layout-breakpoint-small) {
                         display: block;
                         position: relative;
-                        z-index: 999;
+                        z-index: 99;
                     }
                 }
             }

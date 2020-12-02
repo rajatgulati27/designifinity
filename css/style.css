@@ -79,14 +79,14 @@ body .navGroup {
   position: absolute;
   right: 30px;
   top: 40px;
-  z-index: 999;
+  z-index: 99;
   display: flex;
   justify-content: center;
 }
 body .navGroup > a {
   visibility: hidden;
   font-size: 1.8rem;
-  z-index: 999;
+  z-index: 99;
 }
 @media (max-width: 600px) {
   body .navGroup > a {
@@ -134,7 +134,7 @@ body .navGroup nav#sideNav ul li > a {
   body .navGroup nav#sideNav ul li > a {
     display: block;
     position: relative;
-    z-index: 999;
+    z-index: 99;
   }
 }
 body .navGroup nav#sideNav a.picture .img-profile {
@@ -517,59 +517,6 @@ body section#work .workCategories .categoryGroup .category .categoryImage figure
     display: none;
   }
 }
-body section#work .workCategories .categoryGroup .category .instagram_feed {
-  position: absolute;
-  right: 0;
-  top: -101%;
-  z-index: 0;
-  width: 76%;
-  transition-timing-function: ease-in-out;
-  transition-duration: 0.4s;
-  overflow-y: auto;
-  height: 100%;
-}
-body section#work .workCategories .categoryGroup .category .instagram_feed::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.08);
-  background-color: transparent;
-  border-radius: 0;
-}
-body section#work .workCategories .categoryGroup .category .instagram_feed::-webkit-scrollbar {
-  width: 0.5rem;
-  background-color: rgba(255, 255, 255, 0.1);
-}
-body section#work .workCategories .categoryGroup .category .instagram_feed::-webkit-scrollbar-thumb {
-  border-radius: 0;
-  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.44, #bd5d38), color-stop(0.86, #bd5d38));
-}
-@media (max-width: 600px) {
-  body section#work .workCategories .categoryGroup .category .instagram_feed {
-    top: 5.2rem;
-    right: 125%;
-    width: 100%;
-  }
-}
-body section#work .workCategories .categoryGroup .category .instagram_feed .instagram_gallery {
-  float: right;
-  width: calc(100% - 8px);
-  cursor: initial;
-}
-@media (max-width: 600px) {
-  body section#work .workCategories .categoryGroup .category .instagram_feed .instagram_gallery {
-    width: 100%;
-  }
-}
-body section#work .workCategories .categoryGroup .category .instagram_feed .instagram_gallery a > img {
-  margin-left: 0 !important;
-  margin-top: 0 !important;
-  width: calc(24% - 0px) !important;
-  height: auto;
-}
-@media (max-width: 600px) {
-  body section#work .workCategories .categoryGroup .category .instagram_feed .instagram_gallery a > img {
-    background: #bd5d38;
-    width: calc(50% - 5px) !important;
-  }
-}
 body section#work .workCategories .categoryGroup .category.active {
   transition-timing-function: ease-in-out;
   transition-duration: 0.5s;
@@ -649,6 +596,51 @@ body section#work .workCategories .categoryGroup .category.active a.title {
     background: #bd5d38;
     color: #ffffff;
   }
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery ul li.active {
+  position: fixed;
+  width: 100vw;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  z-index: 100;
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.4s;
+  padding: 0;
+  background-color: rgba(35, 75, 115, 0.92);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery ul li.active a {
+  height: calc(90% - 100px);
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.4s;
+  overflow-y: auto;
+  margin-bottom: 60px;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery ul li.active a::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.08);
+  background-color: transparent;
+  border-radius: 0;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery ul li.active a::-webkit-scrollbar {
+  width: 0.5rem;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery ul li.active a::-webkit-scrollbar-thumb {
+  border-radius: 0;
+  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.44, #bd5d38), color-stop(0.86, #bd5d38));
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery ul li.active a img {
+  height: initial;
+  width: auto;
+  margin: 0 auto;
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.4s;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery ul li .description {
+  display: none;
 }
 body section#work :root {
   --offset: 1rem;
@@ -861,6 +853,82 @@ body section#work .workCategories .categoryGroup .category .portfolioGallery {
   top: 0;
   right: 0;
   width: 0;
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.4s;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery li .fullScreenIcon {
+  width: 0;
+  height: 0;
+  display: inline-block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 99;
+  opacity: 0;
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.4s;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery li .fullScreenIcon > div > div {
+  width: 0;
+  height: 0;
+  border-width: 4px;
+  border-color: #ffffff;
+  border-style: solid;
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.4s;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery li .fullScreenIcon .top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 7px;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery li .fullScreenIcon .top .left {
+  border-right: 0;
+  border-bottom: 0;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery li .fullScreenIcon .top .right {
+  border-left: 0;
+  border-bottom: 0;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery li .fullScreenIcon .bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery li .fullScreenIcon .bottom .left {
+  border-right: 0;
+  border-top: 0;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery li .fullScreenIcon .bottom .right {
+  border-left: 0;
+  border-top: 0;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery li:hover .fullScreenIcon {
+  opacity: 1;
+  width: 50px;
+  height: 40px;
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.4s;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery li:hover .fullScreenIcon > div > div {
+  width: calc(50% - 3px);
+  height: 20px;
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.4s;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery li.active .fullScreenIcon {
+  width: 50px;
+  height: 40px;
+  opacity: 1;
+  top: 90%;
+  transform: translate(-50%, 0);
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery li.active .fullScreenIcon > div > div {
+  width: calc(50% - 3px);
+  height: 20px;
+  transform: rotate(180deg);
   transition-timing-function: ease-in-out;
   transition-duration: 0.4s;
 }

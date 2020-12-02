@@ -585,3 +585,5 @@ function setSkillAnimation($main) {
 }
 
 setSkillAnimation($('body'));
+
+

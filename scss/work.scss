@@ -150,49 +150,6 @@ section#work {
                     }
                 }
 
-                .instagram_feed {
-                    position: absolute;
-                    right: 0;
-                    top: -101%;
-                    z-index: 0;
-                    width: 76%;
-                    transition-timing-function: ease-in-out;
-                    transition-duration: 0.4s;
-                    overflow-y: auto;
-                    height: 100%;
-                    @include scrollBar();
-
-                    @media (max-width: $layout-breakpoint-small) {
-                        top: 5.2rem;
-                        right: 125%;
-                        width: 100%;
-                    }
-
-                    .instagram_gallery {
-                        float: right;
-                        width: calc(100% - 8px);
-                        cursor: initial;
-
-                        @media (max-width: $layout-breakpoint-small) {
-                            width: 100%;
-                        }
-
-                        a {
-                            >img {
-                                margin-left: 0 !important;
-                                margin-top: 0 !important;
-                                width: calc(24% - 0px) !important;
-                                height: auto;
-
-                                @media (max-width: $layout-breakpoint-small) {
-                                    background: rgba($color: $primary, $alpha: 1.0);
-                                    width: calc(50% - 5px) !important;
-                                }
-                            }
-                        }
-                    }
-                }
-
                 &.active {
                     transition-timing-function: ease-in-out;
                     transition-duration: 0.5s;
@@ -286,6 +243,49 @@ section#work {
                         }
                     }
 
+                }
+
+                .portfolioGallery {
+                    ul {
+                        li {
+                            &.active {
+                                position: fixed;
+                                width: 100vw;
+                                left: 0;
+                                top: 0;
+                                height: 100vh;
+                                z-index: 100;
+                                transition-timing-function: ease-in-out;
+                                transition-duration: 0.4s;
+                                padding: 0;
+                                background-color: rgb(35 75 115 / 92%);
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                a {
+                                    @include scrollBar();
+                                    height: calc(90% - 100px);
+                                    transition-timing-function: ease-in-out;
+                                    transition-duration: 0.4s;
+                                    overflow-y: auto;
+                                    margin-bottom: 60px;
+
+                                    img {
+                                        height: initial;
+                                        width: auto;
+                                        margin: 0 auto;
+                                        transition-timing-function: ease-in-out;
+                                        transition-duration: 0.4s;
+                                    }
+                                }
+                            }
+
+                            .description {
+                                display: none;
+                            }
+                        }
+                    }
                 }
             }
         }
