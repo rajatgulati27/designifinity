@@ -51,7 +51,7 @@ get_header();
                     alt="mypicture" /></span> -->
 					<h1 class="ml8">
 						<span class="letters-container">
-							<span class="letters letters-left"><span class=""><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="mypicture" /></span></span>
+							<span class="letters letters-left"><span class=""><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="<?php echo  get_template_directory_uri(); ?>/assets/img/profile.jpg" alt="mypicture" /></span></span>
 						</span>
 						<span class="circle circle-container"><span class="circle circle-dark-dashed"></span></span>
 					</h1>
@@ -118,7 +118,7 @@ get_header();
 									<span class="close"><i class="fas fa-times-circle"></i></span>
 									<a href="javascript:void(0)" class="title">UI Design</a>
 									<span class="title">UI Design</span>
-									<figure style="position: relative; background-image:url('./assets/work/category-thumbnail/uidesign.jpg');" alt="uidesign">
+									<figure style="position: relative; background-image:url('<?php echo  get_template_directory_uri(); ?>/assets/work/category-thumbnail/uidesign.jpg');" alt="uidesign">
 									</figure>
 								</div>
 								<div class="portfolioGallery" id="uiDesignPortfolio"></div>
@@ -128,7 +128,7 @@ get_header();
 									<span class="close"><i class="fas fa-times-circle"></i></span>
 									<a href="javascript:void(0)" class="title active">Picillusion</a>
 									<span class="title">Picillusion</span>
-									<figure style="position: relative; background-image:url('./assets/work/category-thumbnail/picillusion.jpg');" alt="picillusion">
+									<figure style="position: relative; background-image:url('<?php echo  get_template_directory_uri(); ?>/assets/work/category-thumbnail/picillusion.jpg');" alt="picillusion">
 									</figure>
 								</div>
 								<!-- <div id="instagram-feed-demo" class="instagram_feed"></div> -->
@@ -139,7 +139,7 @@ get_header();
 									<span class="close"><i class="fas fa-times-circle"></i></span>
 									<a href="javascript:void(0)" class="title">Logo</a>
 									<span class="title">Logo</span>
-									<figure style="position: relative; background-image:url('./assets/work/category-thumbnail/logo.jpg');" alt="logo">
+									<figure style="position: relative; background-image:url('<?php echo  get_template_directory_uri(); ?>/assets/work/category-thumbnail/logo.jpg');" alt="logo">
 									</figure>
 								</div>
 								<div class="portfolioGallery" id="logoPortfolio">
