@@ -348,6 +348,9 @@ get_header();
 					technology advancements in the front-end web development world.</p>
 			</div>
 		</section>
+		<section>
+			[visual_portfolio id="27"]
+		</section>
 	</div>
 </div>
 
