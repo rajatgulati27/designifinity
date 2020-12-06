@@ -1,0 +1,958 @@
+[pl_post_props pagelayer-id="oXTkVNFJloV6szxg"  post_title="Home" post_name="home" post_status="publish" featured_image="" ele_bg_hover_delay="400" post_excerpt=""]
+[/pl_post_props]
+[pl_row pagelayer-id="7pJMYztjn60ORwlk"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" bg_slider_speed="2000" bg_slider="{{theme_url}}/images/banner.jpg" ele_bg_type="color" ele_padding="0px,0px,0px,0px" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_img_color=" " overlay_transperancy="0.4" overlay_color=" " ele_bg_img="http://sitepad.local/site-data/plugins/pagelayer-pro/images/default-image.png" ele_bg_color="#000000ff"]
+[pl_col pagelayer-id="ao4ZwXY5iFinzsB9"  widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" ele_margin="0px,0px,0px,0px"]
+[pl_image_slider pagelayer-id="CVnSfxt6UvBm8ohP"  size="full" slide_items="1" pause="5000" speed="800" loop="" auto="" auto_hover="true" arrows_bg="#00000000" arraow_color="#e29a10ff" arraow_bg_size="20" arraow_bg_shape="20" ele_bg_hover_delay="400" ids="{{theme_url}}/images/banner_01.png,{{theme_url}}/images/banner_02.png" nav_size="60" ele_css="{{element}} button:focus{
+outline:none;
+}" controls="arrows"]
+[/pl_image_slider]
+[pl_inner_row pagelayer-id="xWJD6ayhjJEa6d1r"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="-15px,0px,0px,0px" ele_padding="0px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="IZRRokTvyaHFhr3l"  widget_space="1" overlay_hover_delay="400" ele_bg_hover_delay="400" ele_margin="0px,0px,0px,0px"]
+[pl_social_grp pagelayer-id="QRtNwvGQ4vhopJZt"  align="right" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="57" icon_size="16" color_scheme="" icon_color="#e29a10ff" social_hover_delay="400" icon_color_hover="#e29a10ff" ele_bg_hover_delay="400" ele_css="{{element}} .pagelayer-social{
+padding-top:5px;
+padding-bottom:5px;
+}
+{{element}} {
+padding-right:30px;
+margin
+}" social_hover="hover" anim_hover="float" icon_border_color_hover=" " icon_border_width_hover="0,0,0,0" ele_margin="0px,0px,0px,0px" ele_padding="0px,0px,0px,0px" group_layout_mobile="pagelayer-btn-grp-horizontal" align_mobile="center" icon_spacing_mobile="24" icon_size_mobile="10"]
+[pl_social pagelayer-id="gDn5pIV0U1Rbja4s"  icon="fab fa-facebook-f" social_url="https://www.facebook.com/sitepad" ele_bg_hover_delay="400"]
+[/pl_social]
+[pl_social pagelayer-id="YIXkSc6ghGtvirbM"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad_editor" ele_bg_hover_delay="400"]
+[/pl_social]
+[pl_social pagelayer-id="ICTFzVhJx6BPJO3g"  icon="fab fa-instagram" social_url="https://www.instagram.com/sitepad" ele_bg_hover_delay="400"]
+[/pl_social]
+[pl_social pagelayer-id="sKBojpl4UmXxb7o5"  icon="fab fa-pinterest-p" social_url="https://instagram.com/sitepad" ele_bg_hover_delay="400"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="Qda1llw8cIDabl2a"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="20px,0px,0px,0px" ele_padding_tablet="0px,15px,0px,15px" ele_margin_tablet="0px,0px,0px,0px"]
+[pl_col pagelayer-id="03fBxh8gAzJXL1ca"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" ele_padding_mobile="0px,0px,0px,0px" ele_padding_tablet="0px,0px,0px,0px"]
+[pl_heading pagelayer-id="xcD8wsRu8H2hlcyI"  heading_state="normal" color="#000000ff" ele_bg_hover_delay="400" heading_typo="Ubuntu,42,,500,,,Solid,1,Uppercase,," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" heading_typo_mobile=",22,,,,,Solid,,,," align_mobile="center" heading_typo_tablet=",32,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+there is the creativity[/pl_heading]
+[pl_text pagelayer-id="CoVmPi0nlBamwFIj"  ele_bg_hover_delay="400" ele_padding="0%,50%,0%,1%" ele_padding_mobile="0px,0px,0px,30px" ele_padding_tablet="0px,0px,0px,0px" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-family: roboto; font-size:12px;font-weight:500;color:#000;line-height:2">Turpis egastas macenas dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi Vestibulum.</p>[/pl_text]
+[pl_inner_row pagelayer-id="bqdINIaSlvCK8M27"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="50px,0px,50px,0px" ele_padding_mobile="30px,0px,30px,0px"]
+[pl_inner_col pagelayer-id="csi3pcsH8OnFDZxG"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_tablet="33" col_width="3" col_width_mobile="100"]
+[pl_iconbox pagelayer-id="AXE1dYcmKRzvb2ul"  service_icon="fas fa-camera" service_alignment="top" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#646464ff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="studio shooting" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,16,,600,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="read more" service_button_typo="Ubuntu,12,,500,,,Solid,1.5,Uppercase,0.6," service_btn_state="normal" service_button_color="#000000ff" service_button_bg_color="#00000000" btn_border_type="solid" btn_border_radius="0,0,0,0" btn_border_width="1,1,1,1" btn_border_color="#e29a10ff" service_icon_spacing="0,0,0,60" service_icon_alignment="left" service_btn_spacing="15,0,0,0" service_content_spacing="0,0,0,0" service_text_alignment_mobile="left" service_icon_spacing_mobile="0,0,0,40" service_icon_font_size_mobile="25" service_heading_typo_mobile=",14,,,,,Solid,,,," ele_padding_mobile="0px,0px,14px,0px" service_icon_spacing_tablet="0,0,0,80" service_text_alignment_tablet="center" animation="fadeInLeft" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="color:#ACACAC;font-size:13px;line-height:2;font-weight:300">Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci.</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="TGaBiX4IDXiQqk60"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_tablet="33" col_width="3" col_width_mobile="100"]
+[pl_iconbox pagelayer-id="nqHC6TBRn67M0kSJ"  service_icon="fas fa-video" service_alignment="top" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#646464ff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="studio video" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,16,,600,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="read more" service_button_typo="Ubuntu,12,,500,,,Solid,1.5,Uppercase,0.6," service_btn_state="normal" service_button_color="#000000ff" service_button_bg_color="#00000000" btn_border_type="solid" btn_border_radius="0,0,0,0" btn_border_width="1,1,1,1" btn_border_color="#e29a10ff" service_icon_spacing="0,0,0,45" service_icon_alignment="left" service_btn_spacing="15,0,0,0" service_content_spacing="0,0,0,0" service_icon_spacing_mobile="0,0,0,40" service_icon_font_size_mobile="25" service_text_alignment_mobile="left" service_heading_typo_mobile=",14,,,,,Solid,,,," ele_padding_mobile="0px,0px,15px,0px" service_icon_spacing_tablet="0,0,0,80" service_text_alignment_tablet="center" animation="fadeInUp" animation_delay="800" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="color:#ACACAC;font-size:13px;line-height:2;font-weight:300">Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci.</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="Nhe2RQLiA6i7TeoZ"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_tablet="33" col_width="3" col_width_mobile="100"]
+[pl_iconbox pagelayer-id="x3vdriZ12VsaR9f8"  service_icon="fas fa-camera-retro" service_alignment="top" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#646464ff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="print studio" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,16,,600,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="read more" service_button_typo="Ubuntu,12,,500,,,Solid,1.5,Uppercase,0.6," service_btn_state="normal" service_button_color="#000000ff" service_button_bg_color="#00000000" btn_border_type="solid" btn_border_radius="0,0,0,0" btn_border_width="1,1,1,1" btn_border_color="#e29a10ff" service_icon_spacing="0,0,0,40" service_icon_alignment="left" service_btn_spacing="15,0,0,0" service_content_spacing="0,0,0,0" service_icon_spacing_mobile="0,0,0,40" service_icon_font_size_mobile="25" service_heading_typo_mobile=",14,,,,,Solid,,,," service_text_alignment_mobile="left" service_icon_spacing_tablet="0,0,0,85" service_text_alignment_tablet="center" animation="fadeInRight" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="color:#ACACAC;font-size:13px;line-height:2;font-weight:300">Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci.</p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="NiWepVKOF42R6rEh"  stretch="auto" col_gap="5" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding_tablet="0px,15px,0px,14px"]
+[pl_col pagelayer-id="hkFOxUHPW3UunIEV"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="33" ele_padding_tablet="0px,0px,0px,0px"]
+[pl_image pagelayer-id="pFqxlY3B1GrzoUQX"  id="{{theme_url}}/images/gallery1.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_css="{{element}}:hover{ z-index: 1;}" img_shadow=",,,#00000000,," anim_hover="grow" img_shadow_hover="0,0,15,#e29a10ff,2," animation="fadeInLeft" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="DoT8YeS7YwCC90al"  id="{{theme_url}}/images/gallery2.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_css="{{element}}:hover{ z-index: 1;}" anim_hover="grow" img_shadow_hover="0,0,15,#e29a10ff,2," animation="fadeInLeft" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="dQrvZH1Szi1BBzEN"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="33"]
+[pl_image pagelayer-id="gilHo6EIraZwmpve"  id="{{theme_url}}/images/gallery3.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" img_shadow_hover="0,0,15,#e29a10ff,2," anim_hover="grow" ele_css="{{element}}:hover{ z-index: 1;}" animation="fadeInDown" animation_delay="800" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="nKZKAdYzrZwfFXex"  id="{{theme_url}}/images/gallery6.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" anim_hover="grow" border_shadow_hover=",,,#00000000,," img_shadow_hover="0,0,15,#e29a10ff,2," ele_css="{{element}}:hover{ z-index: 1;}" animation="fadeInUp" animation_delay="900" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="qT4zlYzcC6315ai7"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="33"]
+[pl_image pagelayer-id="Hx24NiqHkJf0dUo4"  id="{{theme_url}}/images/gallery_04.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_css="{{element}}:hover{ z-index: 1;}" img_shadow_hover="0,0,15,#e29a10ff,2," anim_hover="grow" animation="fadeInRight" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="fN7p5sWb3LMaB7xV"  id="{{theme_url}}/images/gallery05.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" anim_hover="grow" border_shadow_hover=",,,#00000000,," img_shadow_hover="0,0,15,#e29a10ff,2," ele_css="{{element}}:hover{ z-index: 1;}" animation="fadeInRight" animation_delay="800" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="MEiBdMgHhnhUsoLs"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="60px,0px,60px,0px" ele_padding_mobile="30px,0px,3px,0px"]
+[pl_col pagelayer-id="qG3fz9mleJhoNbzy"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12"]
+[pl_heading pagelayer-id="zpoHTxciX1LWw63y"  heading_state="normal" color="#000000ff" ele_bg_hover_delay="400" heading_typo="Ubuntu,42,,500,,,Solid,1,Uppercase,," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" heading_typo_mobile=",22,,,,,Solid,,,," align_mobile="center" heading_typo_tablet=",32,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+about me[/pl_heading]
+[pl_text pagelayer-id="2SyEerPzNg1NRA2o"  ele_bg_hover_delay="400" ele_padding="0%,50%,0%,1%" ele_padding_mobile="0px,0px,0px,30px" ele_padding_tablet="0px,0px,0px,0px" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-family: roboto; font-size:12px;font-weight:500;color:#000;line-height:2">Turpis egastas macenas dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi Vestibulum.</p>[/pl_text]
+[pl_inner_row pagelayer-id="q8ZPTvfKCaTMJ34c"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" content_pos="center"]
+[pl_inner_col pagelayer-id="SnTBrwuWUldoeSNR"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_tablet="50" col_width="50" col_width_mobile="99"]
+[pl_image pagelayer-id="5N2marJwRaQ5NFbj"  id="{{theme_url}}/images/about_01.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" animation="fadeInLeft" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="96NdlUkEeoSclUzQ"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" ele_padding="0px,49px,0px,50px" ele_padding_mobile="0px,0px,0px,0px" col_width_tablet="50" ele_padding_tablet="0px,0px,0px,0px" col_width="50" col_width_mobile="100" animation="fadeInRight" animation_delay="700" animation_speed="slowest"]
+[pl_heading pagelayer-id="tMmXdCETkaX37466"  heading_state="normal" color="#111111" ele_bg_hover_delay="400" heading_typo="Roboto,22,,800,,,Solid,,,,"]
+
+
+
+
+
+
+
+
+
+
+
+
+Hi guys![/pl_heading]
+[pl_text pagelayer-id="Nu1zENTv1wo7VDVi"  ele_bg_hover_delay="400" ele_padding="15px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="color:#ACACAC;font-size:14px;line-height:2.2;font-weight:300">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante. Vestibulum sed tristique massa. Quisque et feugiat risus, eu tristique felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisi. Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci. Ut suscipit sollicitudin varius. Etiam ut bibendum purus, sit amet tristique lectus.</p>[/pl_text]
+[pl_text pagelayer-id="7rjSMXB8l2xDGMnn"  ele_bg_hover_delay="400" ele_padding="15px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="color:#ACACAC;font-size:14px;line-height:2.2;font-weight:300">Nulla nec blandit orci. Ut suscipit sollicitudin varius. Etiam ut bibendum purus, sit amet tristique lectus.</p>[/pl_text]
+[pl_service pagelayer-id="Oy7ovsLlTP9d72XP"  service_image="{{theme_url}}/images/signature.png" service_image_size="custom" service_alignment="left" service_vertical_alignment="middle" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="matt collamer" service_title_spacing="0,0,10,25" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,14,,400,,,Solid,,Capitalize,1," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_image_custom_size="200" service_content_spacing="0,0,0,25"]
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="color:#ACACAC;font-size:14px;line-height:1.5;letter-spacing:1px;">PHOTOGRAPHER</p>[/pl_service]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="RV5q85jiPZ6KDvRQ"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="0px,0px,60px,0px" ele_padding_mobile="0px,0px,30px,0px"]
+[pl_col pagelayer-id="mbCaloFtXWcgT9xv"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" ele_padding_tablet="0px,15px,0px,15px"]
+[pl_heading pagelayer-id="PnFnYuExgHaEuJX5"  heading_state="normal" color="#000000ff" ele_bg_hover_delay="400" heading_typo="Ubuntu,42,,500,,,Solid,1,Uppercase,," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" heading_typo_mobile=",22,,,,,Solid,,,," align_mobile="center" heading_typo_tablet=",32,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+portfolio[/pl_heading]
+[pl_text pagelayer-id="sHCXSisP3l6VhRj7"  ele_bg_hover_delay="400" ele_padding="0%,50%,0%,1%" ele_padding_mobile="0px,0px,0px,29px" ele_padding_tablet="0px,0px,0px,0px" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-family: roboto; font-size:12px;font-weight:500;color:#000;line-height:2">Turpis egastas macenas dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi Vestibulum.</p>[/pl_text]
+[pl_inner_row pagelayer-id="Uj6gHvj1fnkVzvak"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding_mobile="0px,0px,30px,0px"]
+[pl_inner_col pagelayer-id="CxQxHMfdSBRJLoMq"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="42" col_width_mobile="42"]
+[pl_image pagelayer-id="l9LJyzqn2UtffpJV"  id="{{theme_url}}/images/portfolio1.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_css="{{element}}:hover{ z-index: 1;}" img_shadow=",,,#00000000,," anim_hover="grow" img_shadow_hover="0,0,15,#e29a10ff,2," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="awBdQleDTst6E0M6"  id="{{theme_url}}/images/portfolio3.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_css="{{element}}:hover{ z-index: 1;}" img_shadow=",,,#00000000,," anim_hover="grow" img_shadow_hover="0,0,15,#e29a10ff,2," animation="fadeInUp" animation_delay="800" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="cX5LBwqRLCHrhc9k"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="58"]
+[pl_image pagelayer-id="JvBTUCPUo61QkdXv"  id="{{theme_url}}/images/portfolio2.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_css="{{element}}:hover{ z-index: 1;}" img_shadow=",,,#00000000,," anim_hover="grow" img_shadow_hover="0,0,15,#e29a10ff,2," animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="StafDoVlpXvJ9izs"  id="{{theme_url}}/images/portfolio4.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_css="{{element}}:hover{ z-index: 1;}" img_shadow=",,,#00000000,," anim_hover="grow" img_shadow_hover="0,0,15,#e29a10ff,2," animation="fadeInUp" animation_delay="900" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="AkzvXC1dh4AJg6fm"  id="{{theme_url}}/images/portfolio5.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_css="{{element}}:hover{ z-index: 1;}" img_shadow=",,,#00000000,," anim_hover="grow" img_shadow_hover="0,0,15,#e29a10ff,2," animation="fadeInUp" animation_delay="1000" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="UzOFDam4d0tHy7QP"  stretch="auto" col_gap="0" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="60px,0px,60px,0px" ele_padding_mobile="30px,0px,30px,0px" ele_padding_tablet="0px,15px,15px,15px"]
+[pl_col pagelayer-id="0pLcdKfrWuXuwuHz"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="dGBaTxjYsUxmVTnp"  heading_state="normal" color="#000000ff" ele_bg_hover_delay="400" heading_typo="Ubuntu,42,,500,,,Solid,1,Uppercase,," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" align="center" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",32,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+our features[/pl_heading]
+[pl_text pagelayer-id="fv73ZmqzghyHOAPJ"  ele_bg_hover_delay="400" ele_padding="0%,30%,0%,30%" ele_padding_mobile="0px,015px,0px,1px" ele_padding_tablet="0%,10%,0%,10%" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center; font-family: roboto; font-size: 12px; font-weight: 500; color: rgb(0, 0, 0); line-height: 2;">Turpis egastas macenas dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi Vestibulum.</p>[/pl_text]
+[pl_inner_row pagelayer-id="lQCFoGxNXgH5Ds6j"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col pagelayer-id="QyHruROvTFKIrBiW"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="30" col_width_mobile="100" col_width_tablet="49" ele_padding="0px,15px,0px,15px"]
+[pl_iconbox pagelayer-id="nurzRrknIChkmNqL"  service_icon="fas fa-thumbs-up" service_alignment="top" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#646464ff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="our features" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,16,,600,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="read more" service_button_typo="Ubuntu,12,,500,,,Solid,1.5,Uppercase,0.6," service_btn_state="normal" service_button_color="#000000ff" service_button_bg_color="#00000000" btn_border_type="solid" btn_border_radius="0,0,0,0" btn_border_width="1,1,1,1" btn_border_color="#e29a10ff" service_icon_spacing="0,0,0,0" service_icon_alignment="center" service_btn_spacing="15,0,0,0" service_content_spacing="0,0,0,0" service_text_alignment_mobile="center" service_icon_spacing_mobile="0,0,0,0" animation="fadeInLeft" animation_delay="600" animation_speed="slowest" service_icon_spacing_tablet="0,0,0,0" service_text_alignment_tablet="center"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="color:#000;font-size:12px;line-height:2;font-weight:500">Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci.</p>[/pl_iconbox]
+[pl_iconbox pagelayer-id="DWx4UPHgxRIRTIpO"  service_icon="fas fa-link" service_alignment="top" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#646464ff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="our features" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,16,,600,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="read more" service_button_typo="Ubuntu,12,,500,,,Solid,1.5,Uppercase,0.6," service_btn_state="normal" service_button_color="#000000ff" service_button_bg_color="#00000000" btn_border_type="solid" btn_border_radius="0,0,0,0" btn_border_width="1,1,1,1" btn_border_color="#e29a10ff" service_icon_spacing="0,0,0,0" service_icon_alignment="center" service_btn_spacing="15,0,0,0" service_content_spacing="0,0,0,0" service_icon_spacing_mobile="0,0,0,0" service_text_alignment_mobile="center" animation="fadeInLeft" animation_delay="700" animation_speed="slowest" service_text_alignment_tablet="center" service_icon_spacing_tablet="0,0,0,0"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="color:#000;font-size:12px;line-height:2;font-weight:500">Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci.</p>[/pl_iconbox]
+[pl_iconbox pagelayer-id="Rn0iVcAX07O0vG16"  service_icon="fas fa-camera" service_alignment="top" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#646464ff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="our features" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,16,,600,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="read more" service_button_typo="Ubuntu,12,,500,,,Solid,1.5,Uppercase,0.6," service_btn_state="normal" service_button_color="#000000ff" service_button_bg_color="#00000000" btn_border_type="solid" btn_border_radius="0,0,0,0" btn_border_width="1,1,1,1" btn_border_color="#e29a10ff" service_icon_spacing="0,0,0,0" service_icon_alignment="center" service_btn_spacing="15,0,0,0" service_content_spacing="0,0,0,0" service_icon_spacing_mobile="0,0,0,0" service_text_alignment_mobile="center" animation="fadeInLeft" animation_delay="700" animation_speed="slowest" service_text_alignment_tablet="center" service_icon_spacing_tablet="0,0,0,0"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="color:#000;font-size:12px;line-height:2;font-weight:500">Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci.</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="nQjuofmoRVRagjsN"  widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="40" col_width_mobile="10" hide_tablet="true" ele_padding_tablet="0px,0px,0px,0px" col_width_tablet="1"]
+[pl_image pagelayer-id="Jou1xTRsOWgFgrhE"  id="{{theme_url}}/images/features.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" hide_tablet="true" ele_padding_tablet="0px,0px,0px,0px" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="Haxy7rjJgVoRJELZ"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="30" col_width_mobile="100" col_width_tablet="49" ele_padding="0px,15px,0px,15px"]
+[pl_iconbox pagelayer-id="NHsPgizvqcwVubkP"  service_icon="fas fa-mouse-pointer" service_alignment="top" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#646464ff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="our features" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,16,,600,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="read more" service_button_typo="Ubuntu,12,,500,,,Solid,1.5,Uppercase,0.6," service_btn_state="normal" service_button_color="#000000ff" service_button_bg_color="#00000000" btn_border_type="solid" btn_border_radius="0,0,0,0" btn_border_width="1,1,1,1" btn_border_color="#e29a10ff" service_icon_spacing="0,0,0,0" service_icon_alignment="center" service_btn_spacing="15,0,0,0" service_content_spacing="0,0,0,0" service_rotate_mobile="273" service_icon_spacing_mobile="0,0,0,0" service_text_alignment_mobile="center" animation="fadeInRight" animation_delay="600" animation_speed="slowest" service_text_alignment_tablet="center" service_icon_spacing_tablet="0,0,0,0"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="color:#000;font-size:12px;line-height:2;font-weight:500">Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci.</p>[/pl_iconbox]
+[pl_iconbox pagelayer-id="RzT47FZdvsanCA15"  service_icon="fas fa-image" service_alignment="top" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#646464ff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="our features" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,16,,600,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="read more" service_button_typo="Ubuntu,12,,500,,,Solid,1.5,Uppercase,0.6," service_btn_state="normal" service_button_color="#000000ff" service_button_bg_color="#00000000" btn_border_type="solid" btn_border_radius="0,0,0,0" btn_border_width="1,1,1,1" btn_border_color="#e29a10ff" service_icon_spacing="0,0,0,0" service_icon_alignment="center" service_btn_spacing="15,0,0,0" service_content_spacing="0,0,0,0" service_icon_spacing_mobile="0,0,0,0" service_text_alignment_mobile="center" animation="fadeInRight" animation_delay="700" animation_speed="slowest" service_text_alignment_tablet="center" service_icon_spacing_tablet="0,0,0,0"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="color:#000;font-size:12px;line-height:2;font-weight:500">Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci.</p>[/pl_iconbox]
+[pl_iconbox pagelayer-id="EMY3H3MDsogezkw3"  service_icon="fas fa-download" service_alignment="top" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#646464ff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="our features" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,16,,600,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="read more" service_button_typo="Ubuntu,12,,500,,,Solid,1.5,Uppercase,0.6," service_btn_state="normal" service_button_color="#000000ff" service_button_bg_color="#00000000" btn_border_type="solid" btn_border_radius="0,0,0,0" btn_border_width="1,1,1,1" btn_border_color="#e29a10ff" service_icon_spacing="0,0,0,0" service_icon_alignment="center" service_btn_spacing="15,0,0,0" service_content_spacing="0,0,0,0" service_icon_spacing_mobile="0,0,0,0" service_text_alignment_mobile="center" animation="fadeInRight" animation_delay="800" animation_speed="slowest" service_text_alignment_tablet="center" service_icon_spacing_tablet="0,0,0,0"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="color:#000;font-size:12px;line-height:2;font-weight:500">Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci.</p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="iEJSF8m7oJiyenWg"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e29a10ff" row_shape_bottom_width="100" row_shape_bottom_height="167" ele_bg_hover_delay="400" row_shape_position="bottom" row_shape_type_bottom="tilt" ele_padding="0px,0px,100px,0px" ele_margin="30px,0px,100px,0px" ele_padding_tablet="0px,15px,0px,15px"]
+[pl_col pagelayer-id="1AkkSNixbubUxtun"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="6wyq3i9WrUTsCJqc"  heading_state="normal" color="#000000ff" ele_bg_hover_delay="400" heading_typo="Ubuntu,42,,500,,,Solid,1,Uppercase,," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" align="center" heading_typo_mobile=",22,,,,,Solid,,,," align_mobile="center" heading_typo_tablet=",32,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+testimonial[/pl_heading]
+[pl_testimonial_slider pagelayer-id="KbbNz9Be5wJiKEsw"  slide_items="1" slide_margin="10" arrows_bg="#00000000" arraow_color="#e29a10ff" arraow_bg_size="20" arraow_bg_shape="20" ele_bg_hover_delay="400" slide_controls="arrows" nav_size="70" ele_padding_mobile="0px,0px,0px,0px" ele_css="{{element}} .pagelayer-testimonial-content span{font-family:roboto; line-height:2; }" slidein_anim="fadeInUp" ele_align="margin" ele_height="auto" ele_custom_width="852px" ele_padding="0px,60px,0px,60px" ele_margin="20px,0px,0px,0px"]
+[pl_testimonial pagelayer-id="1Mbk6Djb0RPogt5G"  image_position="aside-position" alignment="center" author-spacing="20" avatar="{{theme_url}}/images/testi1.jpg" testimonial_image_size="100" img_shape="circle" cite="vasily colada" cite_color="#000000ff" cite_style="Ubuntu,14,,500,,,Solid,,Uppercase,1," designation="" designation_color="#9cafc0" cite_designation_style=",16,,100,,,,,,," ele_bg_hover_delay="400" cite_spacing="0,0,0,14"]
+
+
+
+
+
+
+
+
+
+<span style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span><p><span style="color: rgb(0, 0, 0);"></span></p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="T70mR7BuS64JwxKP"  image_position="aside-position" alignment="center" author-spacing="20" avatar="{{theme_url}}/images/testi2.jpg" testimonial_image_size="100" img_shape="circle" cite="rose madica" cite_color="#000000ff" cite_style="Ubuntu,14,,500,,,Solid,,Uppercase,1," designation="" designation_color="#9cafc0" cite_designation_style=",16,,100,,,,,,," ele_bg_hover_delay="400" cite_spacing="0,0,0,14"]
+
+
+
+
+
+
+
+
+
+<span style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span><p><span style="color: rgb(0, 0, 0);"></span></p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="Dduoo4NSRfLbIxdY"  image_position="aside-position" alignment="center" author-spacing="20" avatar="{{theme_url}}/images/testi3.jpg" testimonial_image_size="100" img_shape="circle" cite="mike ross" cite_color="#000000ff" cite_style="Ubuntu,14,,500,,,Solid,,Uppercase,1," designation="" designation_color="#9cafc0" cite_designation_style=",16,,100,,,,,,," ele_bg_hover_delay="400" cite_spacing="0,0,0,14"]
+
+
+
+
+
+
+
+
+
+<span style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span><p><span style="color: rgb(0, 0, 0);"></span></p>[/pl_testimonial]
+[/pl_testimonial_slider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="Vuy3CtKq5dcBXyT1"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/contactbg.jpg" ele_padding="60px,50px,60px,0px" ele_bg_posy="bottom" ele_bg_posx="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding_mobile="30px,30px,30px,30px"]
+[pl_col pagelayer-id="j8tAFFHOc62OkKLE"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" ele_padding_mobile="0px,0px,0px,0px" ele_margin_mobile="0px,0px,0px,0px" col_width_mobile="10"]
+[pl_heading pagelayer-id="CYOB8FlmvhtftFDa"  heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" heading_typo="Ubuntu,28,,400,,,Solid,1,Uppercase,," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" align="right" ele_padding="0%,0%,0%,0%" ele_margin="0px,0px,0px,0px" heading_typo_mobile=",15,,,,,Solid,,,," align_mobile="center" animation="fadeInLeft" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+book your appointment[/pl_heading]
+[pl_text pagelayer-id="nvZoFI6DUlftM8dZ"  ele_bg_hover_delay="400" ele_padding="0%,0%,0%,68%" ele_padding_mobile="0px,0px,0px,29px" ele_padding_tablet="0%,0%,0%,47%" animation="fadeInLeft" animation_speed="slowest" animation_delay="70"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: left; font-family: roboto; font-size: 11px; font-weight: 300; color: #fff; line-height: 2;">Turpis egastas macenas dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi Vestibulum.</p>[/pl_text]
+[pl_contact pagelayer-id="jTQFqmGfTbguv2wD"  form="contact-form" name="Contact Form" form_position="default" space_label=",,10," input_padding="10,30" radio_padding="10,10" field_hover_delay="400" submit="book your appointment now" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" form_input_bg="#825224ff" form_input_color="#ffffffff" form_placeholder_color="#ffffffff" placeholder_typo="Ubuntu,13,,300,,,Solid,,Uppercase,1," input_height="25" field_border_type="solid" field_border_color=" " field_border_width="0,0,0,0" field_border_radius="0,0,0,0" ele_padding="0%,0%,0%,68%" btn_typo="Ubuntu,12,,300,,,Solid,,Uppercase,," btn_bg_color="#00000000" btn_color="#ffffffff" btn_border_type="solid" btn_border_color="#e29a10ff" btn_border_width="1,1,1,1" contect_btn_align="center" ele_padding_mobile="0px,0px,0px,0px" input_height_mobile="15" ele_padding_tablet="0%,0%,0%,48%" animation="fadeInLeft" animation_delay="800" animation_speed="slowest"]
+[pl_contact_item pagelayer-id="mZwQsrQsBntRAGgF"  label_name="full namne" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="Wc1EfzvV4qFYAhWt"  label_name="email" field_type="email" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="3PmeOG6PSflxIZYm"  label_name="+987 |" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="atTFOnxfPQzFLQd5"  label_name="booking dat" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="yUT9b2AbEq39oupx"  label_name="message" field_type="textarea" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true" textarea_rows="6"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="DBVC1twcLegPJ51B"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="60px,0px,0px,0px" ele_padding_mobile="30px,0px,3px,0px"]
+[pl_col pagelayer-id="IfIYY9PIWD8uW8hh"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12"]
+[pl_heading pagelayer-id="4lyNDIiyjwFa2huZ"  heading_state="normal" color="#000000ff" ele_bg_hover_delay="400" heading_typo="Ubuntu,35,,500,,,Solid,1,Uppercase,," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" align="center" ele_padding="10px,10px,10px,10px" heading_typo_tablet=",22,,,,,Solid,,,," heading_typo_mobile=",21,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+get in touch[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="y4kfYQmd6aJ8pNvB"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" content_pos="center" ele_padding="20px,0px,40px,0px" border_width="0px,0px,5px,0px" border_color="#e29a10ff"]
+[pl_col pagelayer-id="Rq9EeKCNEVwKClzT"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="100" col_width_tablet="50" col_width="50"]
+[pl_inner_row pagelayer-id="IEotnsrfZ7s3qTM0"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col pagelayer-id="DadnAYgMeE00u9qJ"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="50" col_width="5" animation="fadeInUp" animation_speed="slowest" animation_delay="600"]
+[pl_iconbox pagelayer-id="tZYuItYggRaHxyR5"  service_icon="fas fa-map-marker-alt" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="25" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="28" service_icon_hover_delay="400" service_bor_state="normal" service_heading="address" service_title_spacing="20,0,0,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,22,,400,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#e29a10ff" service_icon_shape_type="circle" service_icon_padding_mobile="16" service_icon_font_size_mobile="18" service_heading_typo_mobile=",16,,,,,Solid,,,," service_heading_typo_tablet=",18,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+[/pl_iconbox]
+[pl_address pagelayer-id="rz5vkuzSEtuavHCW"  icon="" ele_bg_hover_delay="400" align="center" color="#acacacff" typography="Roboto,15,,300,,,Solid,,,," ele_margin="-10px,0px,0px,0px" ele_css="{{element}} .pagelayer-address-holder{
+text-align:center;
+}"]
+[/pl_address]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="cTJEXNbRqfPOqxSy"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="50" col_width="5" animation="fadeInUp" animation_speed="slowest" animation_delay="70"]
+[pl_iconbox pagelayer-id="QF5rqqHbd0fKXEkL"  service_icon="fas fa-phone-alt" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="25" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="28" service_icon_hover_delay="400" service_bor_state="normal" service_heading="phone" service_title_spacing="20,0,0,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,22,,400,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#e29a10ff" service_icon_shape_type="circle" service_icon_padding_mobile="16" service_icon_font_size_mobile="18" service_heading_typo_mobile=",16,,,,,Solid,,,," service_heading_typo_tablet=",18,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+[/pl_iconbox]
+[pl_phone pagelayer-id="IzFOyN0GUd4a1Tc5"  icon="" ele_bg_hover_delay="400" align="center" color="#acacacff" typography="Roboto,15,,300,,,Solid,,,," ele_margin="-10px,0px,0px,0px"]
+[/pl_phone]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="i5XZ7rK3OiuVlioe"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="10px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="Pe1Jbhqja5b5Brtt"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="50" col_width="5" animation="fadeInUp" animation_speed="slowest" animation_delay="800"]
+[pl_iconbox pagelayer-id="XtsSuU5b4Xtyq8mn"  service_icon="fas fa-envelope-open" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="25" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="28" service_icon_hover_delay="400" service_bor_state="normal" service_heading="email address" service_title_spacing="20,0,0,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,22,,400,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#e29a10ff" service_icon_shape_type="circle" service_icon_padding_mobile="16" service_icon_font_size_mobile="17" service_heading_typo_mobile=",16,,,,,Solid,,,," service_heading_typo_tablet=",18,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+[/pl_iconbox]
+[pl_email pagelayer-id="zvNpLzz93jKbFk8I"  icon="" ele_bg_hover_delay="400" align="center" color="#acacacff" typography="Roboto,15,,300,,,Solid,,,," ele_margin="-10px,0px,0px,0px"]
+[/pl_email]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="JSFFnsuwGoWTH14Q"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="50" col_width="5" animation="fadeInUp" animation_speed="slowest" animation_delay="900"]
+[pl_iconbox pagelayer-id="7FZwCqh91VFRZ6ZE"  service_icon="fas fa-headset" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="25" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="28" service_icon_hover_delay="400" service_bor_state="normal" service_heading="support team" service_title_spacing="20,0,0,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,22,,400,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#e29a10ff" service_icon_shape_type="circle" service_content_spacing="5,0,0,0" service_icon_font_size_mobile="17" service_icon_padding_mobile="15" service_heading_typo_mobile=",16,,,,,Solid,,,," service_heading_typo_tablet=",18,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+<p style="color:#acacacff;font-size:15px;">(345)- 162 - 7210<br>support@example.com</p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[pl_col pagelayer-id="cMcoPl1U6t5TNZDo"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" ele_padding="0px,50px,0px,50px" ele_padding_mobile="0px,15px,0px,15px" col_width_tablet="50" ele_padding_tablet="0px,20px,0px,20px" col_width="50" col_width_mobile="99"]
+[pl_contact pagelayer-id="7VCRE7ITM1fawTAB"  form="contact-form" name="Contact Form" form_position="default" space_label=",,10," input_padding="10,30" radio_padding="10,10" field_hover_delay="400" submit="submit" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" form_input_bg="#e29a10ff" form_input_color="#ffffffff" form_placeholder_color="#ffffffff" placeholder_typo="Ubuntu,13,,300,,,Solid,,Uppercase,1," input_height="20" field_border_type="solid" field_border_color=" " field_border_width="0,0,0,0" field_border_radius="0,0,0,0" ele_padding="0%,0%,0%,0%" btn_typo="Ubuntu,14,,600,,,Solid,,Uppercase,," btn_bg_color="#00000000" btn_color="#000000ff" btn_border_type="solid" btn_border_color="#e29a10ff" btn_border_width="2,2,2,2" contect_btn_align="center" btn_border_radius="0,0,0,0" ele_padding_tablet="0px,0px,0px,0px" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+[pl_contact_item pagelayer-id="HzcENWd5R73r7m7a"  label_name="full name" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="drsd7TRAmi5D5K9U"  label_name="email" field_type="email" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="3y7giAMbqKdXchIL"  label_name="phone" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="s9EFRjMwrySeh3Ic"  label_name="subject" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="Dh0NiGOd6zDyJ6P1"  label_name="message" field_type="textarea" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true" textarea_rows="6"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[/pl_row]

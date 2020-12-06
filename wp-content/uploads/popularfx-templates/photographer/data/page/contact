@@ -1,0 +1,96 @@
+[pl_row pagelayer-id="RoCr8jDO30lt3Fq3"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/contactbg.jpg" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="150px,0px,150px,0px" overlay_type="color" overlay_transperancy="0.6" overlay_color="#000000ff" ele_padding_mobile="100px,0px,100px,0px"]
+[pl_col pagelayer-id="JR9sg00DD8X3rcuI"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="EJcLZzKMi7aG9dd5"  heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" heading_typo="Ubuntu,50,,500,,,Solid,1.5,Uppercase,1," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" heading_typo_mobile=",22,,,,,Solid,,,," align_mobile="center" heading_typo_tablet=",32,,,,,Solid,,,," align="center"]
+
+
+contact us[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="Ir9waRBkDH40heyP"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="60px,0px,0px,0px" ele_padding_mobile="30px,0px,3px,0px"]
+[pl_col pagelayer-id="Yxp0lA5G6s73ijwG"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12"]
+[pl_heading pagelayer-id="eaBi6jUBf9JxlD8s"  heading_state="normal" color="#000000ff" ele_bg_hover_delay="400" heading_typo="Ubuntu,40,,500,,,Solid,1,Uppercase,," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" align="center" ele_padding="10px,10px,10px,10px" heading_typo_tablet=",22,,,,,Solid,,,," heading_typo_mobile=",21,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+get in touch[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="GGqKLDjwgrj5cN7g"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" content_pos="center" ele_padding="20px,0px,40px,0px" border_width="0px,0px,5px,0px" border_color="#e29a10ff"]
+[pl_col pagelayer-id="rXNTc1UEQ9txyupY"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="100" col_width_tablet="50" col_width="50"]
+[pl_inner_row pagelayer-id="Zn5iWIE9fe1IEOTJ"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col pagelayer-id="HYYNGirhCslcHNRC"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="50" col_width="5" animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+[pl_iconbox pagelayer-id="AtlgEmOIweckouhp"  service_icon="fas fa-map-marker-alt" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="25" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="28" service_icon_hover_delay="400" service_bor_state="normal" service_heading="address" service_title_spacing="20,0,0,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,22,,400,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#e29a10ff" service_icon_shape_type="circle" service_icon_padding_mobile="16" service_icon_font_size_mobile="18" service_heading_typo_mobile=",16,,,,,Solid,,,," service_heading_typo_tablet=",18,,,,,Solid,,,,"]
+
+
+
+
+
+[/pl_iconbox]
+[pl_address pagelayer-id="RsNPa51IqNw4Hdxh"  icon="" ele_bg_hover_delay="400" align="center" color="#acacacff" typography="Roboto,15,,300,,,Solid,,,," ele_margin="-10px,0px,0px,0px"]
+[/pl_address]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="hPfzByc5kGjOSX9J"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="50" col_width="5" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+[pl_iconbox pagelayer-id="4ROiqPwYaeNDZWzl"  service_icon="fas fa-phone-alt" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="25" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="28" service_icon_hover_delay="400" service_bor_state="normal" service_heading="phone" service_title_spacing="20,0,0,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,22,,400,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#e29a10ff" service_icon_shape_type="circle" service_icon_padding_mobile="16" service_icon_font_size_mobile="18" service_heading_typo_mobile=",16,,,,,Solid,,,," service_heading_typo_tablet=",18,,,,,Solid,,,,"]
+
+
+
+
+
+[/pl_iconbox]
+[pl_phone pagelayer-id="PR7d9vcQxKXchKLx"  icon="" ele_bg_hover_delay="400" align="center" color="#acacacff" typography="Roboto,15,,300,,,Solid,,,," ele_margin="-10px,0px,0px,0px"]
+[/pl_phone]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="Me0VDKJ40Fzj9pos"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="10px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="Y31BxVoLDUkA7zLn"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="50" col_width="5" animation="fadeInUp" animation_delay="800" animation_speed="slowest"]
+[pl_iconbox pagelayer-id="aLKyktlo1qqrjfry"  service_icon="fas fa-envelope-open" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="25" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="28" service_icon_hover_delay="400" service_bor_state="normal" service_heading="email address" service_title_spacing="20,0,0,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,22,,400,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#e29a10ff" service_icon_shape_type="circle" service_icon_padding_mobile="16" service_icon_font_size_mobile="17" service_heading_typo_mobile=",16,,,,,Solid,,,," service_heading_typo_tablet=",18,,,,,Solid,,,,"]
+
+
+
+
+
+[/pl_iconbox]
+[pl_email pagelayer-id="f5lcCnLve0zJ7BqU"  icon="" ele_bg_hover_delay="400" align="center" color="#acacacff" typography="Roboto,15,,300,,,Solid,,,," ele_margin="-10px,0px,0px,0px"]
+[/pl_email]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="HTQdpSbEEDc2ek82"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="50" col_width="5" animation="fadeInUp" animation_delay="900" animation_speed="slowest"]
+[pl_iconbox pagelayer-id="XnupaHxfM3EZupYy"  service_icon="fas fa-headset" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="25" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="28" service_icon_hover_delay="400" service_bor_state="normal" service_heading="support team" service_title_spacing="20,0,0,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,22,,400,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#e29a10ff" service_icon_shape_type="circle" service_content_spacing="5,0,0,0" service_icon_font_size_mobile="17" service_icon_padding_mobile="15" service_heading_typo_mobile=",16,,,,,Solid,,,," service_heading_typo_tablet=",18,,,,,Solid,,,,"]
+
+
+
+
+
+<p style="color:#acacacff;font-size:15px;">(345)- 162 - 7210<br>support@example.com</p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[pl_col pagelayer-id="qQsd2d2ybVDzruuj"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" ele_padding="0px,50px,0px,50px" ele_padding_mobile="0px,15px,0px,15px" col_width_tablet="50" ele_padding_tablet="0px,20px,0px,20px" col_width="50" col_width_mobile="99"]
+[pl_contact pagelayer-id="HzA4kayzabsni7Hl"  form="contact-form" name="Contact Form" form_position="default" space_label=",,10," input_padding="10,30" radio_padding="10,10" field_hover_delay="400" submit="submit" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" form_input_bg="#e29a10ff" form_input_color="#ffffffff" form_placeholder_color="#ffffffff" placeholder_typo="Ubuntu,13,,300,,,Solid,,Uppercase,1," input_height="20" field_border_type="solid" field_border_color=" " field_border_width="0,0,0,0" field_border_radius="0,0,0,0" ele_padding="0%,0%,0%,0%" btn_typo="Ubuntu,14,,600,,,Solid,,Uppercase,," btn_bg_color="#00000000" btn_color="#000000ff" btn_border_type="solid" btn_border_color="#e29a10ff" btn_border_width="2,2,2,2" contect_btn_align="center" btn_border_radius="0,0,0,0" ele_padding_tablet="0px,0px,0px,0px" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+[pl_contact_item pagelayer-id="awsxDPkTW7InziyW"  label_name="full name" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="z8UHbFofPOmZiS4H"  label_name="email" field_type="email" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="5fqtbumqvsjlArC9"  label_name="phone" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="AsbQUY7jUivmQn5M"  label_name="subject" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="K7NkF85C5heYtcYM"  label_name="message" field_type="textarea" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,15,0" ele_bg_hover_delay="400" label_as_holder="true" textarea_rows="6"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="HwiQUnc4ilMtjbKU"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" animation_speed="slowest" ele_margin="40px,0px,0px,0px"]
+[pl_col pagelayer-id="5mlCmYmsNCT8Hdxs"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_google_maps pagelayer-id="dAerdWpTDF1ONI4U"  zoom="10" height="400" ele_bg_hover_delay="400" height_mobile="250"]
+
+
+New York, New York, USA[/pl_google_maps]
+[/pl_col]
+[/pl_row]

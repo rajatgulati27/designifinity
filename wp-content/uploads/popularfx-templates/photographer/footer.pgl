@@ -1,0 +1,105 @@
+[pl_row pagelayer-id="Pk9toSCiqcY22msu"  stretch="auto" col_gap="0" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="80px,0px,80px,0px" border_type="solid" border_width="5px,0px,0px,0px" border_color="#e29a10ff" ele_padding_tablet="0px,15px,0px,15px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/footer_bg.jpg" overlay_type="color" overlay_transperancy="0.6" overlay_color="#000000ff" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" content_pos="center" ele_padding_mobile="50px,0px,50px,0px"]
+[pl_col pagelayer-id="9tF0NZAzDYuGWLoT"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" ele_padding="0px,50px,0px,0px" col_width="33" col_width_mobile="100" ele_padding_mobile="0px,0px,0px,30px" col_width_tablet="33"]
+[pl_wp_title pagelayer-id="uJiH1P5SiW8pi6qG"  site_name="Photographer" site_title_state="normal" text-align="left" ele_bg_hover_delay="400" title_padding="0,0,0,0" site_title_style="Ubuntu,22,,,,,Solid,1.5,Uppercase,1," title_color="#e29a10ff" site_title_style_mobile=",16,,,,,Solid,,,,"]
+[/pl_wp_title]
+[pl_text pagelayer-id="pUChh2TgSfiykmga"  ele_bg_hover_delay="400" ele_padding="0%,0%,0%,0%"]
+
+
+
+
+<p style="text-align: left; color: rgb(172, 172, 172); font-size: 14px; line-height: 2; font-weight: 300;">Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci Nulla nec blandit orci.</p>[/pl_text]
+[pl_text pagelayer-id="aRJBZjnoD2U1zPEG"  ele_bg_hover_delay="400" ele_padding="0%,0%,0%,0%"]
+
+
+
+
+<p style="text-align: left; color: rgb(172, 172, 172); font-size: 14px; line-height: 2;">Have any questions?<br><strong style="font-weight: 800;">
++61 383 766 284</strong><span> noreplyAKS@.com</span></p>[/pl_text]
+[/pl_col]
+[pl_col pagelayer-id="c0EucDegJ0ohMjaD"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="33" col_width_mobile="100" ele_padding_mobile="0px,0px,0px,30px" col_width_tablet="33"]
+[pl_inner_row pagelayer-id="wNPayye4i87tq3kA"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="0px,0px,0px,0px" ele_padding="0px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="hlIu8xA3hymWnbiE"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="50" col_width="50" col_width_tablet="50"]
+[pl_iconbox pagelayer-id="ShwMxTapoao2QBRd"  service_icon="fas fa-map-marker-alt" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="15" service_icon_hover_delay="400" service_bor_state="normal" service_heading="address" service_title_spacing="20,0,0,0" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Ubuntu,14,,400,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#e29a10ff" service_icon_shape_type="circle" service_icon_alignment="left"]
+
+
+
+
+
+[/pl_iconbox]
+[pl_address pagelayer-id="laxACuCBPz38c45d"  icon="" ele_bg_hover_delay="400" align="flex-start" color="#acacacff" typography="Roboto,13,,300,,,Solid,,,," ele_margin="-10px,0px,0px,0px"]
+[/pl_address]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="pOsCwbidlRgwau6o"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="50" col_width="50" col_width_tablet="50"]
+[pl_iconbox pagelayer-id="b1q5JcH7IwfbhtLi"  service_icon="fas fa-phone-alt" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="15" service_icon_hover_delay="400" service_bor_state="normal" service_heading="phone" service_title_spacing="20,0,0,0" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Ubuntu,14,,400,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#e29a10ff" service_icon_shape_type="circle" service_icon_alignment="left"]
+
+
+
+
+
+[/pl_iconbox]
+[pl_phone pagelayer-id="IfP4lGLDOxEBpS6r"  icon="" ele_bg_hover_delay="400" align="flex-start" color="#acacacff" typography="Roboto,13,,300,,,Solid,,,," ele_margin="-10px,0px,0px,0px"]
+[/pl_phone]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="yvyIBue6Ey6THORd"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="10px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="c6YRC8FuMCMNMsY0"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="50" col_width="50" col_width_tablet="50"]
+[pl_iconbox pagelayer-id="vxy4kplqvx9jhv9X"  service_icon="fas fa-envelope-open" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="15" service_icon_hover_delay="400" service_bor_state="normal" service_heading="email address" service_title_spacing="20,0,0,0" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Ubuntu,14,,400,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#e29a10ff" service_icon_shape_type="circle" service_icon_alignment="left"]
+
+
+
+
+
+[/pl_iconbox]
+[pl_email pagelayer-id="PctD86hbwlDJBif6"  icon="" ele_bg_hover_delay="400" align="flex-start" color="#acacacff" typography="Roboto,13,,300,,,Solid,,,," ele_margin="-10px,0px,0px,0px"]
+[/pl_email]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="eno2zg43B2HqhSIq"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_mobile="50" col_width="50" col_width_tablet="50"]
+[pl_iconbox pagelayer-id="RrBihGmGG8FSFXCC"  service_icon="fas fa-headset" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="15" service_icon_hover_delay="400" service_bor_state="normal" service_heading="support team" service_title_spacing="20,0,0,0" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Ubuntu,14,,400,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#e29a10ff" service_icon_shape_type="circle" service_content_spacing="5,0,0,0" service_icon_alignment="left"]
+
+
+<p style="color:#acacacff;font-size:13px;">(345)- 162 - 7210<br>support@example.com</p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[pl_col pagelayer-id="WQpR00IWpP1jeCbQ"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="33" ele_padding_mobile="0px,0px,0px,30px" col_width_tablet="33"]
+[pl_text pagelayer-id="MPMt0T3wBYqZeJ4C"  ele_bg_hover_delay="400" ele_padding="0px,0px,0px,20px"]
+
+
+
+
+
+<p style="text-align: left; color: rgb(172, 172, 172); font-size: 14px; line-height: 2; font-weight: 300;">Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci Nulla nec blandit orci Nulla nec blandit orci Nulla nec blandit orci.</p>[/pl_text]
+[pl_social_grp pagelayer-id="HcBwJMjIOhHHwh3W"  align="left" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="15" icon_size="18" color_scheme="" icon_color="#e29a10ff" social_hover_delay="400" icon_color_hover="#ffffffff" ele_bg_hover_delay="400" ele_css="{{element}} .pagelayer-social{
+padding-top:5px;
+padding-bottom:5px;
+}
+{{element}} {
+padding-right:30px;
+margin
+}" social_hover="hover" anim_hover="float" icon_border_color_hover=" " icon_border_width_hover="0,0,0,0" ele_margin="0px,0px,0px,0px" ele_padding="15px,0px,0px,0px" icon_spacing_mobile="10" align_mobile="left" icon_spacing_tablet="4" bg_shape="pagelayer-social-shape-circle" bg_size="8" icon_bg_color="#ffffffff" icon_bg_color_hover="#e29a10ff" bg_size_tablet="5" icon_size_tablet="14" align_tablet="center" bg_size_mobile="8" icon_size_mobile="14"]
+[pl_social pagelayer-id="WIsIjrraDOCTQBnQ"  icon="fab fa-facebook-f" social_url="https://www.facebook.com/sitepad" ele_bg_hover_delay="400"]
+[/pl_social]
+[pl_social pagelayer-id="bMPl2jvh8qcbyWNZ"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad_editor" ele_bg_hover_delay="400"]
+[/pl_social]
+[pl_social pagelayer-id="GMA03LkVgX6w8uiY"  icon="fab fa-instagram" social_url="https://www.instagram.com/sitepad" ele_bg_hover_delay="400"]
+[/pl_social]
+[pl_social pagelayer-id="V3U9L5KEIc4FAGb0"  icon="fab fa-pinterest-p" social_url="https://instagram.com/sitepad" ele_bg_hover_delay="400"]
+[/pl_social]
+[pl_social pagelayer-id="wPReLDVMizFC2GpQ"  icon="fab fa-youtube" social_url="https://www.youtube.com/sitepad" ele_bg_hover_delay="400"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="afgi5zEvtX1D39HC"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#e29a10ff" ele_padding="15px,0px,15px,0px" ele_margin="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,10px" ele_padding_tablet="15px,15px,15px,15px"]
+[pl_col pagelayer-id="iwLjdsEvWgjWzBCG"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="25" col_width_mobile="100" col_width_tablet="25"]
+[pl_copyright pagelayer-id="IgsBKB8NXQlbPUdF"  ele_bg_hover_delay="400" align="left" color="#ffffffff" typography="Ubuntu,13,,300,,,Solid,,Uppercase,," ele_padding_mobile="0px,0px,0px,20px"]
+[/pl_copyright]
+[/pl_col]
+[pl_col pagelayer-id="M0zG8Atw5ulbcv6m"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="25" col_width_mobile="100" col_width_tablet="25"]
+[pl_heading pagelayer-id="AbjoOAOL7YQ4qHoW"  heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" heading_typo="Ubuntu,13,,300,,,Solid,,Uppercase,," align="right" align_mobile="left" ele_padding_mobile="0px,0px,0px,20px"]
+
+
+
+terms and condition[/pl_heading]
+[/pl_col]
+[/pl_row]

@@ -1,0 +1,124 @@
+section#work {
+    @import "galleryScss";
+
+    .workCategories {
+        .categoryGroup {
+            .category {
+                &.active {
+                    .portfolioGallery {
+                        @include scrollBar();
+                        width: calc(100% - 1.875rem);
+                        transition-timing-function: ease-in-out;
+                        transition-duration: 0.4s;
+                        overflow-y: auto;
+                        height: 100%;
+                    }
+                }
+
+                .portfolioGallery {
+                    position: absolute;
+                    top: 0;
+                    right: 0;
+                    width: 0;
+                    transition-timing-function: ease-in-out;
+                    transition-duration: 0.4s;
+
+                    li {
+                        .fullScreenIcon {
+                            width: 0;
+                            height: 0;
+                            display: inline-block;
+                            position: absolute;
+                            left: 50%;
+                            top: 50%;
+                            transform: translate(-50%, -50%);
+                            z-index: 99;
+                            opacity: 0;
+                            transition-timing-function: ease-in-out;
+                            transition-duration: 0.4s;
+
+                            &>div>div {
+                                width: 0;
+                                height: 0;
+                                border-width: 4px;
+                                border-color: #ffffff;
+                                border-style: solid;
+                                transition-timing-function: ease-in-out;
+                                transition-duration: 0.4s;
+                            }
+
+                            .top {
+                                display: flex;
+                                justify-content: space-between;
+                                align-items: flex-start;
+                                margin-bottom: 7px;
+
+                                .left {
+                                    border-right: 0;
+                                    border-bottom: 0;
+                                }
+
+                                .right {
+                                    border-left: 0;
+                                    border-bottom: 0;
+                                }
+                            }
+
+                            .bottom {
+                                display: flex;
+                                justify-content: space-between;
+                                align-items: flex-end;
+
+                                .left {
+                                    border-right: 0;
+                                    border-top: 0;
+                                }
+
+                                .right {
+                                    border-left: 0;
+                                    border-top: 0;
+                                }
+                            }
+                        }
+
+                        &:hover {
+                            .fullScreenIcon {
+                                opacity: 1;
+                                width: 50px;
+                                height: 40px;
+                                transition-timing-function: ease-in-out;
+                                transition-duration: 0.4s;
+
+                                &>div>div {
+                                    width: calc(50% - 3px);
+                                    height: 20px;
+                                    transition-timing-function: ease-in-out;
+                                    transition-duration: 0.4s;
+                                }
+                            }
+                        }
+
+                        &.active {
+                            .fullScreenIcon {
+                                width: 50px;
+                                height: 40px;
+                                opacity: 1;
+                                top: 90%;
+                                transform: translate(-50%, 0);
+
+                                &>div>div {
+                                    width: calc(50% - 3px);
+                                    height: 20px;
+                                    transform: rotate(180deg);
+                                    transition-timing-function: ease-in-out;
+                                    transition-duration: 0.4s;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}

@@ -1,0 +1,368 @@
+[pl_row pagelayer-id="49HaZHXBjNspG2hc"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/contactbg.jpg" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="150px,0px,150px,0px" overlay_type="color" overlay_transperancy="0.6" overlay_color="#000000ff" ele_padding_mobile="100px,0px,100px,0px"]
+[pl_col pagelayer-id="1M4C1axXPiZQDzRy"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="ropN6D1woHeUshMg"  heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" heading_typo="Ubuntu,50,,500,,,Solid,1.5,Uppercase,1," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" heading_typo_mobile=",22,,,,,Solid,,,," align_mobile="center" heading_typo_tablet=",32,,,,,Solid,,,," align="center"]
+
+
+about me[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="G4HG6xyMaQZ2q9f3"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="60px,0px,60px,0px" ele_padding_mobile="30px,0px,3px,0px"]
+[pl_col pagelayer-id="FiQkXRfO354jeg9N"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12"]
+[pl_heading pagelayer-id="QvV8u8bNjytJ7gFI"  heading_state="normal" color="#000000ff" ele_bg_hover_delay="400" heading_typo="Ubuntu,42,,500,,,Solid,1,Uppercase,," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" heading_typo_mobile=",22,,,,,Solid,,,," align_mobile="center" heading_typo_tablet=",32,,,,,Solid,,,," ele_padding="0px,0px,0px,15px" animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+about me[/pl_heading]
+[pl_text pagelayer-id="O8MIdm4eEHToviZs"  ele_bg_hover_delay="400" ele_padding="0%,50%,0%,1%" ele_padding_mobile="0px,0px,0px,30px" ele_padding_tablet="0px,0px,0px,0px" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-family: roboto; font-size:12px;font-weight:500;color:#000;line-height:2">Turpis egastas macenas dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi Vestibulum.</p>[/pl_text]
+[pl_inner_row pagelayer-id="mZjte0oslwkqPPGw"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" content_pos="center"]
+[pl_inner_col pagelayer-id="9PGF5OEhH31V1mCF"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width_tablet="50" col_width="50" col_width_mobile="99"]
+[pl_image pagelayer-id="xoB582xhCJBHxEBD"  id="{{theme_url}}/images/about_01.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" animation="fadeInLeft" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="ZLxX6Jp5Kds3bIiD"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" ele_padding="0px,49px,0px,50px" ele_padding_mobile="0px,0px,0px,0px" col_width_tablet="50" ele_padding_tablet="0px,0px,0px,0px" col_width="50" col_width_mobile="100" animation="fadeInRight" animation_delay="700" animation_speed="slowest"]
+[pl_heading pagelayer-id="oeo2OkcUxVvdRoWW"  heading_state="normal" color="#111111" ele_bg_hover_delay="400" heading_typo="Roboto,22,,800,,,Solid,,,,"]
+
+
+
+
+
+
+
+
+
+
+Hi guys![/pl_heading]
+[pl_text pagelayer-id="7yppOlbk3DCEnaHp"  ele_bg_hover_delay="400" ele_padding="15px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+<p style="color:#ACACAC;font-size:14px;line-height:2.2;font-weight:300">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante. Vestibulum sed tristique massa. Quisque et feugiat risus, eu tristique felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisi. Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci. Ut suscipit sollicitudin varius. Etiam ut bibendum purus, sit amet tristique lectus.</p>[/pl_text]
+[pl_text pagelayer-id="O8wki8o4dVRnBlqE"  ele_bg_hover_delay="400" ele_padding="15px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+<p style="color:#ACACAC;font-size:14px;line-height:2.2;font-weight:300">Nulla nec blandit orci. Ut suscipit sollicitudin varius. Etiam ut bibendum purus, sit amet tristique lectus.</p>[/pl_text]
+[pl_service pagelayer-id="EkQlT7XU3CogBfAF"  service_image="{{theme_url}}/images/signature.png" service_image_size="custom" service_alignment="left" service_vertical_alignment="middle" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="matt collamer" service_title_spacing="0,0,10,25" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,14,,400,,,Solid,,Capitalize,1," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_image_custom_size="200" service_content_spacing="0,0,0,25"]
+
+
+
+
+
+
+
+
+
+
+<p style="color:#ACACAC;font-size:14px;line-height:1.5;letter-spacing:1px;">PHOTOGRAPHER</p>[/pl_service]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="YsaGr58OUdAQfmO0"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e29a10ff" row_shape_bottom_width="100" row_shape_bottom_height="167" ele_bg_hover_delay="400" row_shape_position="bottom" row_shape_type_bottom="tilt" ele_padding="0px,0px,100px,0px" ele_margin="0px,0px,100px,0px" ele_padding_tablet="0px,15px,0px,15px"]
+[pl_col pagelayer-id="CTHtxAIoFnBg14O6"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="MDScvi1smvIWRnrH"  heading_state="normal" color="#000000ff" ele_bg_hover_delay="400" heading_typo="Ubuntu,42,,500,,,Solid,1,Uppercase,," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" align="center" heading_typo_mobile=",22,,,,,Solid,,,," align_mobile="center" heading_typo_tablet=",32,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+testimonial[/pl_heading]
+[pl_testimonial_slider pagelayer-id="I1aldefvjNQ7DVow"  slide_items="1" slide_margin="10" arrows_bg="#00000000" arraow_color="#e29a10ff" arraow_bg_size="20" arraow_bg_shape="20" ele_bg_hover_delay="400" slide_controls="arrows" nav_size="70" ele_padding_mobile="0px,0px,0px,0px" ele_css="{{element}} .pagelayer-testimonial-content span{font-family:roboto; line-height:2; }" slidein_anim="fadeInUp" ele_align="margin" ele_height="auto" ele_custom_width="852px" ele_padding="0px,60px,0px,60px" ele_margin="20px,0px,0px,0px"]
+[pl_testimonial pagelayer-id="kqr45c8AOu31AZTM"  image_position="aside-position" alignment="center" author-spacing="20" avatar="{{theme_url}}/images/testi1.jpg" testimonial_image_size="100" img_shape="circle" cite="vasily colada" cite_color="#000000ff" cite_style="Ubuntu,14,,500,,,Solid,,Uppercase,1," designation="" designation_color="#9cafc0" cite_designation_style=",16,,100,,,,,,," ele_bg_hover_delay="400" cite_spacing="0,0,0,14"]
+
+
+
+
+
+
+
+
+
+
+<span style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span><p><span style="color: rgb(0, 0, 0);"></span></p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="4Cy1aujcoeFPdMWn"  image_position="aside-position" alignment="center" author-spacing="20" avatar="{{theme_url}}/images/testi2.jpg" testimonial_image_size="100" img_shape="circle" cite="rose madica" cite_color="#000000ff" cite_style="Ubuntu,14,,500,,,Solid,,Uppercase,1," designation="" designation_color="#9cafc0" cite_designation_style=",16,,100,,,,,,," ele_bg_hover_delay="400" cite_spacing="0,0,0,14"]
+
+
+
+
+
+
+
+
+
+
+<span style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span><p><span style="color: rgb(0, 0, 0);"></span></p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="xEVJkxzx7nfurkTL"  image_position="aside-position" alignment="center" author-spacing="20" avatar="{{theme_url}}/images/testi3.jpg" testimonial_image_size="100" img_shape="circle" cite="mike ross" cite_color="#000000ff" cite_style="Ubuntu,14,,500,,,Solid,,Uppercase,1," designation="" designation_color="#9cafc0" cite_designation_style=",16,,100,,,,,,," ele_bg_hover_delay="400" cite_spacing="0,0,0,14"]
+
+
+
+
+
+
+
+
+
+
+<span style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span><p><span style="color: rgb(0, 0, 0);"></span></p>[/pl_testimonial]
+[/pl_testimonial_slider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="Oemb9js6DSyB5qHQ"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="0px,0px,80px,0px"]
+[pl_col pagelayer-id="CvNyPRtwU34PBvyr"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_inner_row pagelayer-id="EKwcDYlLZ1QOi8WB"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col pagelayer-id="pTiev9Q1jULvlW56"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="uiN2mKr90wuLjvmH"  heading_state="normal" color="#000000ff" ele_bg_hover_delay="400" heading_typo="Ubuntu,42,,500,,,Solid,1,Uppercase,," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" align="left" heading_typo_mobile=",22,,,,,Solid,,,," align_mobile="center" heading_typo_tablet=",32,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+gallery[/pl_heading]
+[pl_text pagelayer-id="TyxfJnrD2nBApdkv"  ele_bg_hover_delay="400" ele_padding="0%,50%,0%,1%" ele_padding_mobile="0px,0px,0px,30px" ele_padding_tablet="0px,3px,0px,0px" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-family: roboto; font-size:12px;font-weight:500;color:#000;line-height:2">Turpis egastas macenas dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi Vestibulum.</p>[/pl_text]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="T4nSLeenwkqxucsx"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col pagelayer-id="IIdg0vCwgJB2OcTr"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="33"]
+[pl_image pagelayer-id="aq3UxiKKEOQkqhBx"  id="{{theme_url}}/images/gallery1.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_css="{{element}}:hover{ z-index: 1;}" img_shadow=",,,#00000000,," anim_hover="grow" img_shadow_hover="0,0,15,#e29a10ff,2," animation="fadeInLeft" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="4zDkX83BhPFZzc1g"  id="{{theme_url}}/images/gallery2.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_css="{{element}}:hover{ z-index: 1;}" anim_hover="grow" img_shadow_hover="0,0,15,#e29a10ff,2," animation="fadeInLeft" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="KmAcy2vPQeyqK3dW"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="33"]
+[pl_image pagelayer-id="1ywLWk3PR05gGzdf"  id="{{theme_url}}/images/gallery3.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" img_shadow_hover="0,0,15,#e29a10ff,2," anim_hover="grow" ele_css="{{element}}:hover{ z-index: 1;}" animation="fadeInDown" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="IWCT53HNZVBiAmDi"  id="{{theme_url}}/images/gallery6.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" anim_hover="grow" border_shadow_hover=",,,#00000000,," img_shadow_hover="0,0,15,#e29a10ff,2," ele_css="{{element}}:hover{ z-index: 1;}" animation="fadeInDown" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="aO50RV4eEBjK1cE6"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="33"]
+[pl_image pagelayer-id="MuYfriIMDrW0OMLP"  id="{{theme_url}}/images/gallery_04.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_css="{{element}}:hover{ z-index: 1;}" img_shadow_hover="0,0,15,#e29a10ff,2," anim_hover="grow" animation="fadeInRight" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="FG9TZmf7gehJtbQv"  id="{{theme_url}}/images/gallery05.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" anim_hover="grow" border_shadow_hover=",,,#00000000,," img_shadow_hover="0,0,15,#e29a10ff,2," ele_css="{{element}}:hover{ z-index: 1;}" animation="fadeInRight" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="LMJF2GfSkXhFZnnM"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="0px,0px,60px,0px"]
+[pl_col pagelayer-id="5uTqWD48XqxaiFBH"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="lTEYw4pBj1zGJQTR"  heading_state="normal" color="#000000ff" ele_bg_hover_delay="400" heading_typo="Ubuntu,42,,500,,,Solid,1,Uppercase,," border_width="2px,2px,2px,2px" border_color="#e29a10ff" border_radius="0px,0px,0px,0px" align="left" heading_typo_mobile=",22,,,,,Solid,,,," align_mobile="center" heading_typo_tablet=",32,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+latest news[/pl_heading]
+[pl_text pagelayer-id="wohzgtDq7yH44M7A"  ele_bg_hover_delay="400" ele_padding="0%,50%,0%,1%" ele_padding_mobile="0px,0px,0px,30px" ele_padding_tablet="0px,3px,0px,0px" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-family: roboto; font-size:12px;font-weight:500;color:#000;line-height:2">Turpis egastas macenas dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi Vestibulum.</p>[/pl_text]
+[pl_inner_row pagelayer-id="HQ1vBs8ppkqXzJsl"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="40px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="RPQfX1PQJAY4gdgU"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="33" col_width_mobile="100"]
+[pl_service pagelayer-id="e93qrMzifVvse2E4"  service_image="{{theme_url}}/images/news1.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="wishing well" service_title_spacing="30,0,10,30" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,24,,600,,,Solid,,Capitalize,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="10,25,25,29" border_shadow_hover="0,0,15,#e29a10ff,2," ele_shadow="0,0,15,#acacacff,2," service_heading_typo_mobile=",18,,,,,Solid,,,," service_heading_typo_tablet=",20,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+<p style="font-family:roboto;line-height:2;font-size:14px;font-weight:400;color:#ACACAC">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="EsVlX9YCMDIWJAnh"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="33" col_width_mobile="100"]
+[pl_service pagelayer-id="6eInrejXkfsS4kww"  service_image="{{theme_url}}/images/news2.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="johnny  B Goode" service_title_spacing="30,0,10,30" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,24,,600,,,Solid,,Capitalize,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="10,25,25,29" border_shadow_hover="0,0,15,#e29a10ff,2," ele_shadow="0,0,15,#acacacff,2," service_heading_typo_mobile=",18,,,,,Solid,,,," service_heading_typo_tablet=",20,,,,,Solid,,,," animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+
+
+<p style="font-family:roboto;line-height:2;font-size:14px;font-weight:400;color:#ACACAC">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="7YSYUZzzjMduvnCc"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="33" col_width_mobile="100"]
+[pl_service pagelayer-id="FGqMbNAHho8otlT2"  service_image="{{theme_url}}/images/news3.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="one" service_title_spacing="30,0,10,30" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Ubuntu,24,,600,,,Solid,,Capitalize,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="10,25,25,29" border_shadow_hover="0,0,15,#e29a10ff,2," ele_shadow="0,0,15,#acacacff,2," service_heading_typo_mobile=",18,,,,,Solid,,,," service_heading_typo_tablet=",20,,,,,Solid,,,," animation="fadeInUp" animation_delay="800" animation_speed="slowest"]
+
+
+<p style="font-family:roboto;line-height:2;font-size:14px;font-weight:400;color:#ACACAC">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>[/pl_service]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]

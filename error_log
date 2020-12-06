@@ -1,0 +1,10 @@
+[06-Dec-2020 10:10:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function list_files() in /home4/quirkbu1/designifinity.com/wp-content/plugins/pagelayer/main/import.php:497
+Stack trace:
+#0 /home4/quirkbu1/designifinity.com/wp-content/plugins/popularfx-templates/templates.php(34): pagelayer_import_theme('photographer', '/home4/quirkbu1...')
+#1 /home4/quirkbu1/designifinity.com/wp-content/plugins/popularfx-templates/popularfx-templates.php(176): popularfx_import_template('photographer')
+#2 /home4/quirkbu1/designifinity.com/wp-includes/class-wp-hook.php(287): pfx_setup_template_import('')
+#3 /home4/quirkbu1/designifinity.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home4/quirkbu1/designifinity.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home4/quirkbu1/designifinity.com/wp-settings.php(524): do_action('after_setup_the...')
+#6 /home4/quirkbu1/designifinity.com/wp-config.php(90): require_once('/home4/quirkbu1...')
+#7 /home4/quirkbu1/designifinity.com/wp-load.php(37): require_once('/home4/quirkb in /home4/quirkbu1/designifinity.com/wp-content/plugins/pagelayer/main/import.php on line 497
