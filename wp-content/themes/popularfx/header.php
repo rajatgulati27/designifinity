@@ -1,4 +1,5 @@
 <?php
+
 /**
  * The header for our theme
  *
@@ -8,6 +9,8 @@
  *
  * @package PopularFX
  */
+
+ /*
 
 ?>
 <!doctype html>
@@ -57,3 +60,4 @@
 			?>
 		</nav><!-- #site-navigation -->
 	</header><!-- #masthead -->
+*/
