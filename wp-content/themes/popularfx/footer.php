@@ -36,7 +36,27 @@ $footer_text = get_theme_mod('popularfx_footer_text');
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
+<!-- Bootstrap core JS-->
+<script src="<?php echo  get_template_directory_uri(); ?>/js/jquery.min.js"></script>
+<script src="<?php echo  get_template_directory_uri(); ?>/js/bootstrap.min.js"></script>
+<!-- load insta posts -->
+<script>
+	$(document).ready(function() {
+		$('#picillusionPortfolio').load("/portfolio/instagram.html");
+	});
+</script>
+<!-- Third party plugin JS-->
+<script src="<?php echo  get_template_directory_uri(); ?>/js/jquery.easing.min.js"></script>
+<script src="<?php echo  get_template_directory_uri(); ?>/js/popper.min.js"></script>
+<!-- anime js -->
+<script src="<?php echo  get_template_directory_uri(); ?>/js/anime.min.js"></script>
+<!-- text change js -->
+<script src="<?php echo  get_template_directory_uri(); ?>/js/changetext.js"></script>
+<!-- Core theme JS-->
+<script src="<?php echo  get_template_directory_uri(); ?>/js/scripts.js"></script>
 
+<!-- reference - https://www.jqueryscript.net/social-media/Instagram-Photos-Without-API-instagramFeed.html -->
+<!-- <script src="<?php echo  get_template_directory_uri(); ?>/js/jquery.instagramFeed.js"></script> -->
 </body>
 
 </html>

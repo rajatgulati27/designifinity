@@ -32,24 +32,6 @@ get_header();
 		endwhile; // End of the loop.
 		*/ ?>
 
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<meta name="description" content="">
-		<meta name="author" content="">
-		<title>Designifinity</title>
-		<link rel="icon" type="image/x-icon" href="assets/img/favicon/favicon.ico">
-		<!-- Font Awesome icons (free version)-->
-		<script src="js/all.js"></script>
-		<!-- Google fonts-->
-		<link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css">
-		<link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css">
-		<!-- Core theme CSS (includes Bootstrap)-->
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-		<link href="<?php echo  get_template_directory_uri(); ?>/css/style.css" rel="stylesheet">
-		<!-- load -->
-	</head>
-
 	<body id="page-top">
 		<!-- Navigation-->
 		<div class="navGroup">
