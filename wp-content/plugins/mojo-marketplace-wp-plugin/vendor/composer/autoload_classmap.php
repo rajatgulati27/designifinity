@@ -34,4 +34,5 @@ return array(
     'Psr\\Container\\ContainerExceptionInterface' => $vendorDir . '/psr/container/src/ContainerExceptionInterface.php',
     'Psr\\Container\\ContainerInterface' => $vendorDir . '/psr/container/src/ContainerInterface.php',
     'Psr\\Container\\NotFoundExceptionInterface' => $vendorDir . '/psr/container/src/NotFoundExceptionInterface.php',
+    'wpscholar\\Composer\\GithubArchiveInstaller' => $vendorDir . '/wpscholar/github-archive-installer/src/GithubArchiveInstaller.php',
 );

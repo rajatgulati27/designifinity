@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitbbc4970bfabc85610b6cb47433eef4df
+class ComposerStaticInit891a71d720a11d8f587ccbf43648ee14
 {
     public static $files = array (
         '637fa4e5a9fe2956d844ead1daab0f31' => __DIR__ . '/..' . '/bluehost/endurance-wp-module-business-reviews/bootstrap.php',
@@ -15,6 +15,10 @@ class ComposerStaticInitbbc4970bfabc85610b6cb47433eef4df
     );
 
     public static $prefixLengthsPsr4 = array (
+        'w' => 
+        array (
+            'wpscholar\\Composer\\' => 19,
+        ),
         'P' => 
         array (
             'Psr\\Container\\' => 14,
@@ -26,6 +30,10 @@ class ComposerStaticInitbbc4970bfabc85610b6cb47433eef4df
     );
 
     public static $prefixDirsPsr4 = array (
+        'wpscholar\\Composer\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/wpscholar/github-archive-installer/src',
+        ),
         'Psr\\Container\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/container/src',
@@ -75,15 +83,16 @@ class ComposerStaticInitbbc4970bfabc85610b6cb47433eef4df
         'Psr\\Container\\ContainerExceptionInterface' => __DIR__ . '/..' . '/psr/container/src/ContainerExceptionInterface.php',
         'Psr\\Container\\ContainerInterface' => __DIR__ . '/..' . '/psr/container/src/ContainerInterface.php',
         'Psr\\Container\\NotFoundExceptionInterface' => __DIR__ . '/..' . '/psr/container/src/NotFoundExceptionInterface.php',
+        'wpscholar\\Composer\\GithubArchiveInstaller' => __DIR__ . '/..' . '/wpscholar/github-archive-installer/src/GithubArchiveInstaller.php',
     );
 
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitbbc4970bfabc85610b6cb47433eef4df::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitbbc4970bfabc85610b6cb47433eef4df::$prefixDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInitbbc4970bfabc85610b6cb47433eef4df::$prefixesPsr0;
-            $loader->classMap = ComposerStaticInitbbc4970bfabc85610b6cb47433eef4df::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit891a71d720a11d8f587ccbf43648ee14::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit891a71d720a11d8f587ccbf43648ee14::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInit891a71d720a11d8f587ccbf43648ee14::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInit891a71d720a11d8f587ccbf43648ee14::$classMap;
 
         }, null, ClassLoader::class);
     }
