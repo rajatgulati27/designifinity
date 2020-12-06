@@ -129,13 +129,8 @@ get_header();
 								<figure style="position: relative; background-image:url('<?php echo  get_template_directory_uri(); ?>/assets/work/category-thumbnail/picillusion.jpg');" alt="picillusion">
 								</figure>
 							</div>
-<div class="wpress"><?php
-							<!-- wp:imagely/nextgen-gallery -->
-							[ngg src="galleries" ids="1" display="basic_thumbnail" thumbnail_crop="0"]
-							<!-- /wp:imagely/nextgen-gallery -->
 
-							?></div>
-							<!-- <div class="portfolioGallery" id="picillusionPortfolio"></div> -->
+							<div class="portfolioGallery" id="picillusionPortfolio"></div>
 						</div>
 						<div class="category" id="logo">
 							<div class="categoryImage">
