@@ -1,5 +1,0 @@
-CPanel Git Version Control
-https://rs002.webhostbox.net:2083/cpsess4991319017/frontend/paper_lantern/version_control/index.html#/manage/%252Fhome4%252Fquirkbu1%252Fdesignifinity.com/deploy
-
-Sass Compile
-sass --watch scss/style.scss css/style.css
