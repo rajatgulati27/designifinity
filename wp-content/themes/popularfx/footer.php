@@ -41,9 +41,10 @@ $footer_text = get_theme_mod('popularfx_footer_text');
 <script src="<?php echo  get_template_directory_uri(); ?>/js/bootstrap.min.js"></script>
 <!-- load insta posts -->
 <script>
-	$(document).ready(function() {
-		$('#picillusionPortfolio').load("<?php echo  get_template_directory_uri(); ?>/portfolio/instagram.html");
-	});
+	// $(document).ready(function() {
+	// 	$('#picillusionPortfolio').load("<?php // echo  get_template_directory_uri(); 
+											?>/portfolio/instagram.html");
+	// });
 </script>
 <!-- Third party plugin JS-->
 <script src="<?php echo  get_template_directory_uri(); ?>/js/jquery.easing.min.js"></script>
