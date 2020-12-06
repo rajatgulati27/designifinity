@@ -42,7 +42,7 @@ $footer_text = get_theme_mod('popularfx_footer_text');
 <!-- load insta posts -->
 <script>
 	$(document).ready(function() {
-		$('#picillusionPortfolio').load("/portfolio/instagram.html");
+		$('#picillusionPortfolio').load("<?php echo  get_template_directory_uri(); ?>/portfolio/instagram.html");
 	});
 </script>
 <!-- Third party plugin JS-->
