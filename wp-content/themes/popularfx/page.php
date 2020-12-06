@@ -351,27 +351,6 @@ get_header();
 				</div>
 			</section>
 		</div>
-		<!-- Bootstrap core JS-->
-		<script src="js/jquery.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<!-- load insta posts -->
-		<script>
-			$(document).ready(function() {
-				$('#picillusionPortfolio').load("/portfolio/instagram.html");
-			});
-		</script>
-		<!-- Third party plugin JS-->
-		<script src="js/jquery.easing.min.js"></script>
-		<script src="js/popper.min.js"></script>
-		<!-- anime js -->
-		<script src="js/anime.min.js"></script>
-		<!-- text change js -->
-		<script src="js/changetext.js"></script>
-		<!-- Core theme JS-->
-		<script src="js/scripts.js"></script>
-
-		<!-- reference - https://www.jqueryscript.net/social-media/Instagram-Photos-Without-API-instagramFeed.html -->
-		<!-- <script src="js/jquery.instagramFeed.js"></script> -->
 	</body>
 
 </main><!-- #main -->
