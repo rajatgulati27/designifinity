@@ -349,7 +349,7 @@ get_header();
 			</div>
 		</section>
 		<section>
-			[visual_portfolio id="27"]
+			[visual_portfolio id="49"]
 		</section>
 	</div>
 </div>
