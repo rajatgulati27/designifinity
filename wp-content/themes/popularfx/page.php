@@ -30,7 +30,7 @@ get_header();
 		endwhile; // End of the loop.
 		*/ ?>
 
-<section id="mainSection">
+<div id="mainSection">
 	<!-- Navigation-->
 	<div class="navGroup">
 		<a class="menu" href="javascript:void(0)">
@@ -349,7 +349,7 @@ get_header();
 			</div>
 		</section>
 	</div>
-</section>
+</div>
 
 <?php
 get_sidebar();
