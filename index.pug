@@ -1,0 +1,140 @@
+doctype html
+html(lang="en")
+    head
+        title Designifinity
+        link(rel="icon", type="image/x-icon", href="assets/img/favicon/favicon.ico")
+
+        // Google fonts
+        link(href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css")
+        link(href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css")
+
+        // Bootstrap
+        link(href="css/bootstrap.min.css" rel="stylesheet")
+
+        // custom stylesheet
+        link(href="css/style.css" rel="stylesheet")
+
+        // jQuery
+        script(src="js/jquery.min.js")
+
+    body#page-top
+
+        //navigation
+        .navGroup
+            a.menu(href="javascript:void(0)")
+                #nav-icon
+                    - for(var n=1; n<=6; n++)
+                        span
+            nav.navbar.navbar-expand-lg.navbar-dark#sideNav
+                a.picture.navbar-brand.js-scroll-trigger.m-0(href="#page-top")
+                    h1.ml8
+                        span.letters-container
+                            span.letters.letters-left
+                                span
+                                    img.img-fluid.img-profile.rounded-circle.mx-auto.mb-2(src="assets/img/profile.jpg")
+                        span.circle.circle-container
+                            span.circle.circle-dark-dashed
+                .navbarSupportedContent#navbarSupportedContent
+                    ul.navbar-nav
+                        each n in ['about', 'work', 'skills', 'experience', 'education', 'interests']
+                            li.nav-item
+                                a.nav-link.js-scroll-trigger('href'='#'+n)= n
+                        script.
+                            // handle links with @href started with '#' only
+                            $(document).on('click', 'nav a.nav-link[href^="#"]', function(e) {
+                                $(this).addClass('active');
+                                $(this).parent().siblings().children('a.nav-link').removeClass('active');
+                                // target element id
+                                var id = $(this).attr('href');
+
+                                // target element
+                                var $id = $(id);
+                                if ($id.length === 0) {
+                                    return;
+                                }
+
+                                // prevent standard hash navigation (avoid blinking in IE)
+                                e.preventDefault();
+
+                                // top position relative to the document
+                                var pos = $id.offset().top;
+
+                                // animated top scrolling
+                                $('body, html').animate({scrollTop: $id.offset().top},);
+                            });
+
+        // About Me
+        .container-fluid
+            section.resume-section.background#about
+                .resume-section-content.content-wrapper
+                    h1
+                        span.text-wrapper
+                            span.letters Rajat
+                                span.text-primary Gulati
+                    .subheading.mb-5
+                        h2.iAm
+                            span.iAmA I'm a
+                            span.txt-rotate(data-period="2000", data-rotate="[ 'UI Designer', 'UX Designer', 'Graphic Designer' ]")
+                    p.description.mb-5.
+                        I am an innovative, passionate and creative professional when it comes to art. A positive creative individual with a smile.
+                    .mailIconGroup
+                        .social-icons
+                            each n in ['fa-linkedin-in', 'fa-github', 'fa-twitter', 'fa-facebook-f']
+                                a.social-icon(href="javascript:void(0)")
+                                    i.fab(class=n)
+                        .subheading
+                            a(href="mailto:designifinity@gmail.com") designifinity@gmail.com
+
+        // My Work
+        .container-fluid
+            section.resume-section.background#work
+                .resume-section-content.content-wrapper
+                    h2.mb-5 Work
+                    .workCategories
+                        .row.categoryGroup
+                            each n in ['uidesign','graphicdesign','picillusion']
+                                .col.category(id=n)
+                                    <span class="arrow-down-close open"></span>
+                                    .categoryImage
+                                        figure(style="position:relative;")
+                                            - var urlName = "assets/work/category-thumbnail/"+n+"-thumb.jpg"
+                                            img(src=urlName alt=n class="thumbImg")
+                                    .portfolioGallery('id'=n+'-gallery')
+                                        ul.album
+                                            - for(i=1; i<=35; i++)
+                                                li(style="background-image: url('assets/work/default-thumbnail.jpg')", width=liWidth)
+                            script.
+                                liWidth= $('.portfolioGallery').width()/6-10 + "px";
+                                $('.portfolioGallery>ul>li').css({'width':liWidth, 'height':liWidth});
+                            script.
+                                $('img').on('click', function(){
+                                    $(this).parents(".category").addClass('active').removeClass('hide')
+                                    $(this).parents(".category").siblings().removeClass('active').addClass('hide')
+                                    if($(this).parents(".category").children('.arrow-down-close').hasClass('open')){
+                                        $(this).parents(".category").children('.arrow-down-close').removeClass('open');
+                                    }
+                                    })
+                                $('.arrow-down-close').on('click', function(){
+                                    if($(this).hasClass('open')){
+                                        $(this).removeClass('open');
+                                        $(this).siblings().find('ul.album li').removeClass('showHtml');
+                                    } else{
+                                        $(this).addClass('open');
+                                        $(this).closest('.category').removeClass('active');
+                                        $(this).closest('.category').siblings().removeClass('hide');
+                                        
+                                    }
+                                });
+                                $('.portfolioGallery>ul>li').on('click', function(){
+                                    $(this).addClass('showHtml');
+                                    $(this).siblings().removeClass('showHtml');
+                                    $(this).closest('.portfolioGallery').siblings('.arrow-down-close').addClass('open');
+                                });
+
+        // My Skills
+        .container-fluid
+            section.resume-section.background#skills
+                .resume-section-content.content-wrapper
+                    h2.mb-5 Skills
+                    .subheading.mb-3 Programming Languages & Tools
+                    .articleGroup

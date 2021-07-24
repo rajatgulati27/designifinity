@@ -1,4 +1,6 @@
 section#work {
+    position: relative;
+
     .workCategories {
         .categoryGroup {
             display: flex;
@@ -13,25 +15,13 @@ section#work {
             }
 
             .category {
-                min-width: 33%;
-                border-right: 10px solid #fff;
                 overflow: hidden;
-                display: inline-block;
-                position: relative;
-                cursor: pointer;
-                transition-timing-function: ease-in-out;
-                transition-duration: 0.5s;
+                position: unset;
+                @include transition(0.4s, 0s);
                 height: 100%;
 
                 @media (max-width: $layout-breakpoint-small) {
                     min-width: 100%;
-                }
-
-                &.minWidth {
-                    transition-timing-function: ease-in-out;
-                    transition-duration: 0.5s;
-                    min-width: 0%;
-                    transition-delay: 0.2s;
                 }
 
                 span.title {
@@ -52,33 +42,12 @@ section#work {
                 }
 
                 .categoryImage {
-                    position: relative;
+                    position: unset;
                     overflow: hidden;
-                    transition-timing-function: ease-in-out;
-                    transition-duration: 0.4s;
+                    @include transition(0.4s, 0);
                     z-index: 2;
                     width: 100%;
                     height: 100%;
-
-                    span.close {
-                        position: absolute;
-                        font-size: 2.125rem;
-                        color: rgba(255, 255, 255, 0.7);
-                        z-index: 9;
-                        left: 50%;
-                        top: -100%;
-                        transform: translate(-50%, calc(-50% + 130px));
-                        transition-timing-function: ease-in-out;
-                        transition-duration: 0.25s;
-
-                        @media (max-width: $layout-breakpoint-small) {}
-
-                        &:hover {
-                            color: rgba(255, 255, 255, 1);
-                            transition-timing-function: ease-in-out;
-                            transition-duration: 0.3s;
-                        }
-                    }
 
                     figure {
                         width: 100%;
@@ -90,6 +59,7 @@ section#work {
                         img {
                             width: auto;
                             height: 100%;
+                            cursor: pointer;
 
                             @media (max-width: $layout-breakpoint-small) {
                                 width: 100%;
@@ -98,91 +68,60 @@ section#work {
                     }
                 }
 
-                .instagram_feed {
+                .portfolioGallery {
                     position: absolute;
-                    right: 0;
-                    top: -101%;
-                    z-index: 0;
-                    width: 76%;
-                    transition-timing-function: ease-in-out;
-                    transition-duration: 0.4s;
-                    overflow-y: auto;
+                    right: -110%;
                     height: 100%;
-                    @include scrollBar();
+                    top: 0;
+                    width: 100%;
+                    z-index: 9;
+                    opacity: 0;
+                    overflow-y: auto;
+                    @include transition(0.3s, 0);
+                    background-color: #fff;
 
-                    @media (max-width: $layout-breakpoint-small) {
-                        position: relative;
-                        width: 100%;
-                    }
+                    >ul {
+                        display: block;
+                        margin: 0 auto;
+                        padding: 6px 0 0 0;
 
-                    .instagram_gallery {
-                        float: right;
-                        width: calc(100% - 8px);
-                        cursor: initial;
-
-                        a {
-                            >img {
-                                margin-left: 0 !important;
-                                margin-top: 0 !important;
-                                width: calc(24% - 0px) !important;
-                                height: auto;
-
-                                @media (max-width: $layout-breakpoint-small) {
-                                    width: 49% !important;
-                                }
-                            }
+                        li {
+                            width: 200px;
+                            height: 200px;
+                            display: inline-block;
+                            background-size: contain;
                         }
+                    }
+                }
+
+                &.hide {
+                    .categoryImage {
+                        opacity: 0;
+                        @include transition(0.4s, 0.1s);
+                    }
+                    .portfolioGallery {
+                        display: none;
                     }
                 }
 
                 &.active {
-                    transition-timing-function: ease-in-out;
-                    transition-duration: 0.5s;
-                    min-width: 100%;
-                    transition-delay: 0.2s;
-
-                    .instagram_feed {
-                        transition-timing-function: ease-in-out;
-                        transition-duration: 0.4s;
-                        top: 0%;
-                    }
-
                     .categoryImage {
-                        position: relative;
-                        overflow: hidden;
-                        transition-timing-function: ease-in-out;
-                        transition-duration: 0.4s;
-                        width: 24%;
-
-                        span.close {
-                            top: 50%;
-                        }
+                        opacity: 0;
                     }
 
-                    span.title {
-                        bottom: 50%;
-                        transition-timing-function: ease-in-out;
-                        transition-duration: 0.4s;
-                        font-size: 1rem;
-                        white-space: pre;
-                        color: $primary;
-                        background: rgba($color: #ffffff, $alpha: 1);
-                    }
-
-                    figure {
-                        cursor: initial;
-
-                        &:after {
-                            content: "";
-                            position: absolute;
-                            width: 100%;
-                            height: 100%;
-                            background: rgba($color: $primary, $alpha: 0.85);
-                        }
+                    .portfolioGallery {
+                        opacity: 100%;
+                        right: 0;
+                        @include transition(0.3s, 0s);
                     }
                 }
+
             }
 
         }
+    }
+
+    &.expand {
+        width: calc(100% - 3rem);
     }
 }

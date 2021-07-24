@@ -204,3 +204,59 @@ h1.ml8 {
 .show #nav-icon span {
     background: #ffffff;
 }
+
+
+// close iocn
+
+.arrow-down-close {
+    width: 81px;
+    height: 50px;
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    z-index: 999;
+    opacity: 0;
+    display: none;
+    transform: rotate(90deg);
+    cursor: pointer;
+
+    &:before,
+    &:after {
+        content: '';
+        display: inline-block;
+        height: 54px;
+        width: 10px;
+        background-color: white;
+        border-radius: 10px;
+        position: relative;
+        transition: 300ms ease-in-out transform;
+    }
+
+    &:before {
+        transform: rotate(-45deg);
+        left: 18px;
+        top: -4px;
+    }
+
+    &:after {
+        transform: rotate(45deg);
+        left: 40px;
+        top: -4px;
+    }
+
+    &.open {
+        &:before {
+            transform: translateX(17px) rotate(-45deg);
+        }
+
+        &:after {
+            transform: translateX(-17px) rotate(45deg);
+        }
+    }
+}
+.category.active {
+    .arrow-down-close {
+        opacity: 1;
+        display: inline-block;
+    }
+}

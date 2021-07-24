@@ -24,6 +24,7 @@ body {
     color: #212529;
     text-align: left;
     background-color: #fff;
+    overflow: hidden;
 
     @mixin scrollBar {
         &::-webkit-scrollbar-track {
@@ -54,6 +55,12 @@ body {
         min-height: 100vh;
         display: flex;
         align-items: center;
+    }
+
+    @mixin transition($duration, $delay){
+        transition-duration: $duration;
+        transition-delay: $delay;
+        transition-timing-function: ease-in-out;
     }
 
     h1,

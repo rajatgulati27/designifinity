@@ -1,76 +1,75 @@
-/*!
-    * Start Bootstrap - Resume v6.0.1 (https://startbootstrap.com/template-overviews/resume)
-    * Copyright 2013-2020 Start Bootstrap
-    * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
-    */
-(function ($) {
-    "use strict"; // Start of use strict
+// change text
+var TxtRotate = function (el, toRotate, period) {
+    this.toRotate = toRotate;
+    this.el = el;
+    this.loopNum = 0;
+    this.period = parseInt(period, 10) || 2000;
+    this.txt = '';
+    this.tick();
+    this.isDeleting = false;
+};
 
-    // Smooth scrolling using jQuery easing
-    $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function () {
-        if (
-            location.pathname.replace(/^\//, "") ==
-            this.pathname.replace(/^\//, "") &&
-            location.hostname == this.hostname
-        ) {
-            var target = $(this.hash);
-            target = target.length
-                ? target
-                : $("[name=" + this.hash.slice(1) + "]");
-            if (target.length) {
-                $("html, body").animate(
-                    {
-                        scrollTop: target.offset().top,
-                    },
-                    1000,
-                    "easeInOutExpo"
-                );
-                return false;
-            }
+TxtRotate.prototype.tick = function () {
+    var i = this.loopNum % this.toRotate.length;
+    var fullTxt = this.toRotate[i];
+
+    if (this.isDeleting) {
+        this.txt = fullTxt.substring(0, this.txt.length - 1);
+    } else {
+        this.txt = fullTxt.substring(0, this.txt.length + 1);
+    }
+
+    this.el.innerHTML = '<span class="wrap">' + this.txt + '</span>';
+
+    var that = this;
+    var delta = 200 - Math.random() * 150;
+
+    if (this.isDeleting) { delta /= 2; }
+
+    if (!this.isDeleting && this.txt === fullTxt) {
+        delta = this.period;
+        this.isDeleting = true;
+    } else if (this.isDeleting && this.txt === '') {
+        this.isDeleting = false;
+        this.loopNum++;
+        delta = 500;
+    }
+
+    setTimeout(function () {
+        that.tick();
+    }, delta);
+};
+
+window.onload = function () {
+    var elements = document.getElementsByClassName('txt-rotate');
+    for (var i = 0; i < elements.length; i++) {
+        var toRotate = elements[i].getAttribute('data-rotate');
+        var period = elements[i].getAttribute('data-period');
+        if (toRotate) {
+            new TxtRotate(elements[i], JSON.parse(toRotate), period);
         }
+    }
+    // INJECT CSS
+    var css = document.createElement("style");
+    css.type = "text/css";
+    css.innerHTML = ".txt-rotate > .wrap { border-right: 0.08em solid #bd5d38; }";
+    document.body.appendChild(css);
+};
+
+
+// work expand
+$(document).ready(function () {
+    $(".workCategories .categoryGroup .category figure").click(function () {
+        $('nav').addClass('collapse');
+        $('section#work').addClass('expand');
+        $(this).parent().parent().addClass("active");
+        $(this).parent().parent().siblings().addClass("minWidth");
+        $(this).parent().parent().siblings().removeClass("active");
     });
-
-    // Closes responsive menu when a scroll trigger link is clicked
-    $(".js-scroll-trigger").click(function () {
-        $(".navbar-collapse").collapse("hide");
+    $(".workCategories .categoryGroup .category span.close").click(function () {
+        $('nav').removeClass('collapse');
+        $('section#work').removeClass('expand');
+        $(this).parent().parent().removeClass("active");
+        $(this).parent().parent().siblings().addClass("minWidth");
     });
-
-    // Activate scrollspy to add active class to navbar items on scroll
-    $("body").scrollspy({
-        target: "#sideNav",
-    });
-
-    // menu toggle
-    $(document).ready(function () {
-        $(".navGroup>a.menu").click(function () {
-            $(this).parent().toggleClass("show");
-            $("body").toggleClass("overflow");
-        });
-    });
-
-    // work expand
-    $(document).ready(function () {
-        $(".workCategories .categoryGroup .category figure").click(function () {
-            $(this).parent().parent().addClass("active");
-            $(this).parent().parent().siblings().addClass("minWidth");
-            $(this).parent().parent().siblings().removeClass("active");
-        });
-        $(".workCategories .categoryGroup .category span.close").click(function () {
-            $(this).parent().parent().removeClass("active");
-            $(this).parent().parent().siblings().addClass("minWidth");
-        });
-    });
-})(jQuery); // End of use strict
-
-// animation text
-// Wrap every letter in a span
-// var textWrapper = document.querySelector('.ml10 .letters');
-// textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
-
-// anime.timeline({ loop: false })
-//     .add({
-//         targets: '.ml10 .letter',
-//         rotateY: [-270, 0],
-//         duration: 1800,
-//         delay: (el, i) => 50 * i
-//     })
+});
