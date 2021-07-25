@@ -16,6 +16,9 @@ html(lang="en")
 
         // jQuery
         script(src="js/jquery.min.js")
+        script(src="js/gSAP/gSAP.all.js")
+        script(src="js/gSAP/gSAP.scrollTrigger.js")
+        script(src="js/gSAP/tweenMaxLite.js")
 
     body#page-top
 
@@ -102,10 +105,10 @@ html(lang="en")
                                     .portfolioGallery('id'=n+'-gallery')
                                         ul.album
                                             - for(i=1; i<=35; i++)
-                                                li(style="background-image: url('assets/work/default-thumbnail.jpg')", width=liWidth)
+                                                li(class="hideLiItems", style="background-image: url('assets/work/default-thumbnail.jpg')", width=liWidth)
                             script.
                                 liWidth= $('.portfolioGallery').width()/6-10 + "px";
-                                $('.portfolioGallery>ul>li').css({'width':liWidth, 'height':liWidth});
+                                $('.portfolioGallery>ul.album>li').css({'width':liWidth, 'height':liWidth});
                             script.
                                 $('img').on('click', function(){
                                     $(this).parents(".category").addClass('active').removeClass('hide')
@@ -117,25 +120,27 @@ html(lang="en")
                                 $('.arrow-down-close').on('click', function(){
                                     if($(this).hasClass('open')){
                                         $(this).removeClass('open');
-                                        $(this).siblings().find('ul.album li').removeClass('showHtml');
-                                        $(this).siblings().find('ul.album li').removeClass('hide');
+                                        $(this).siblings().find('ul.album>li').removeClass('showHtml').addClass('hideLiItems');
+                                        $(this).siblings().find('ul.album>li').removeClass('hide');
                                     } else{
                                         $(this).addClass('open');
                                         $(this).closest('.category').removeClass('active');
                                         $(this).closest('.category').siblings().removeClass('hide');
                                     }
                                 });
-                                $('.portfolioGallery>ul>li').on('click', function(){
-                                    $(this).attr({
-                                        'id':'rajat',
-                                        'class':'showHtml',
-                                    });
+                                $('.portfolioGallery>ul.album>li').on('click', function(e){
                                     var liNum= $(this).index()+1;
                                     var idaa= $(this).closest('.category').attr('id');
+                                    if (e.target == this){
+                                        $(this).attr({
+                                        'id':'rajat',
+                                        'class':'showHtml',
+                                    }).removeClass('hideLiItems');
                                     $(this).load('/work/'+idaa+'/'+idaa+'-post-'+liNum+'/index.html');
                                     $(this).siblings().removeClass('showHtml').addClass('hide');
                                     $(this).closest('.portfolioGallery').siblings('.arrow-down-close').addClass('open');
-                                });
+                                    }
+                                    });
 
         // My Skills
         .container-fluid
@@ -144,3 +149,5 @@ html(lang="en")
                     h2.mb-5 Skills
                     .subheading.mb-3 Programming Languages & Tools
                     .articleGroup
+
+        script(src="js/gSAP/myGSAP.js")

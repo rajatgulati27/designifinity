@@ -1,0 +1,462 @@
+@font-face {
+  font-family: "Palanquin";
+  src: url("../uiItems-1/fonts/Palanquin-Thin.ttf");
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "Palanquin";
+  src: url("../fonts/Palanquin-ExtraLight.ttf");
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Palanquin";
+  src: url("../fonts/Palanquin-Light.ttf");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Palanquin";
+  src: url("../fonts/Palanquin-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Palanquin";
+  src: url("../fonts/Palanquin-Medium.ttf");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Palanquin";
+  src: url("../fonts/Palanquin-SemiBold.ttf");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Palanquin";
+  src: url("../fonts/Palanquin-Bold.ttf");
+  font-style: normal;
+  font-weight: 700;
+}
+
+#girly-designifinity h1,
+#girly-designifinity h2,
+#girly-designifinity h3,
+#girly-designifinity h4,
+#girly-designifinity h5,
+#girly-designifinity h6,
+#girly-designifinity p,
+#girly-designifinity a,
+#girly-designifinity li {
+  font-family: "Palanquin", "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  text-transform: initial;
+  font-style: normal;
+  font-size: 14px;
+}
+
+#girly-designifinity .icon:hover svg path,
+#girly-designifinity #downButton:hover svg path,
+#girly-designifinity #upButton:hover svg path {
+  fill: #5de7fc;
+  color: #5de7fc;
+}
+
+#girly-designifinity section {
+  display: flex !important;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  min-height: initial;
+  background: transparent;
+}
+
+#girly-designifinity section article {
+  display: inline-block;
+  text-align: left;
+  background-color: #ffffff;
+  width: 280px;
+  height: 590px;
+  margin: 0 40px;
+  border-radius: 35px;
+  box-shadow: 8px 8px 14px rgba(184, 200, 222, 0.51);
+  position: relative;
+  overflow: hidden;
+  max-height: calc(100% - 40px);
+}
+
+#girly-designifinity section article div.homePage {
+  top: -20px;
+  background-color: #f8fbff;
+}
+
+#girly-designifinity section article div.brundha {
+  z-index: 99;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: calc(100% + 50px);
+  top: 0;
+  background-image: url('../assets/girl-pink.jpg');
+  background-size: 340px 606px;
+  background-position-x: center;
+  background-position-y: 0;
+  background-repeat: no-repeat;
+}
+
+#girly-designifinity section article span.icon#back {
+  display: flex;
+  float: left;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  left: 30px;
+  width: 30px;
+  height: 30px;
+  border-radius: 8px;
+  position: absolute;
+  top: 40px;
+}
+
+#girly-designifinity section article span.icon#back i {
+  color: rgba(0, 0, 0, 0.4);
+}
+
+#girly-designifinity section article span.icon#back:hover>i {
+  color: #5de7fc;
+  transition: ease-in-out 0.2s;
+}
+
+#girly-designifinity section article span.icon#back i {
+  font-size: 12px;
+}
+
+#girly-designifinity section article div.infoCard {
+  background: #f8fbff;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  border-radius: 25px;
+  text-align: left;
+  padding: 20px 24px 18px 24px;
+}
+
+#girly-designifinity section article div.infoCard h2 {
+  font-size: 1.5em;
+  font-weight: 600;
+  color: #333333;
+  margin-top: 0.5em;
+}
+
+#girly-designifinity section article div.infoCard h3 {
+  font-size: 1em;
+  font-weight: 300;
+  margin: 12px 0 24px 0;
+}
+
+#girly-designifinity section article div.infoCard h3>span {
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+#girly-designifinity section article div.infoCard .buttons {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin: 15px 0 14px 0;
+}
+
+#girly-designifinity section article div.infoCard .buttons span.icon#like {
+  display: flex;
+  float: left;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.15);
+  cursor: unset;
+  justify-content: center;
+  align-items: center;
+  height: 44px;
+  width: 48px;
+  box-shadow: 1px 1px 4px #ebf4ff;
+}
+
+#girly-designifinity section article div.infoCard .buttons span.icon#like i,
+#girly-designifinity section article div.infoCard .buttons span.icon#like svg path {
+  color: #5de7fc;
+  fill: #5de7fc;
+  transform: scale(1.4);
+  transform-origin: center;
+}
+
+#girly-designifinity section article div.infoCard .buttons span.icon#like:hover i,
+#girly-designifinity section article div.infoCard .buttons span.icon#like:hover svg path {
+  color: #5de7fc;
+  fill: #5de7fc;
+  transition: ease-in-out 0.2s;
+}
+
+#girly-designifinity section article div.infoCard .buttons span.icon#like i,
+#girly-designifinity section article div.infoCard .buttons span.icon#like svg path {
+  font-size: 1.4em;
+}
+
+#girly-designifinity section article div.infoCard .buttons button {
+  cursor: unset;
+  background: #5de7fc;
+  outline: none !important;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  height: 44px;
+  width: calc(100% - 75px);
+  justify-content: center;
+  color: #fff;
+  font-size: 1em;
+  border: none;
+  box-shadow: 1px 1px 4px #ebf4ff;
+}
+
+#girly-designifinity section article div.infoCard span#downButton {
+  display: flex;
+  float: left;
+  background: #ffffff;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  right: 30px;
+  width: 30px;
+  height: 30px;
+  border-radius: 8px;
+  position: absolute;
+  top: -9px;
+}
+
+#girly-designifinity section article div.infoCard span#downButton:hover i {
+  color: #5de7fc;
+  transition: ease-in-out 0.2s;
+}
+
+#girly-designifinity section article .leftArticle {
+  padding: 28px 18px;
+}
+
+#girly-designifinity section article .leftArticle h1 {
+  font-size: 2em;
+  font-weight: 600;
+  color: #333333;
+  position: relative;
+  top: 10px;
+}
+
+#girly-designifinity section article .leftArticle h1 img {
+  width: 44px;
+  position: relative;
+  top: -4px;
+  margin-right: 6px;
+  left: -4px;
+}
+
+#girly-designifinity section article .leftArticle ul.categories {
+  margin-top: 2.15em;
+  display: flex;
+  height: 24px;
+}
+
+#girly-designifinity section article .leftArticle ul.categories li {
+  list-style: none;
+  cursor: unset;
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid;
+  border-color: transparent;
+}
+
+#girly-designifinity section article .leftArticle ul.categories li+li {
+  margin-left: 1.5em;
+}
+
+#girly-designifinity section article .leftArticle ul.categories li:hover {
+  /* color: #5de7fc !important; */
+}
+
+#girly-designifinity section article .leftArticle ul.categories li.active {
+  color: #5de7fc;
+  font-weight: 500;
+  border-color: #5de7fc;
+}
+
+#girly-designifinity section article .leftArticle .tiles {
+  margin-top: 25px;
+}
+
+#girly-designifinity section article .leftArticle .tiles ul.cards {
+  display: block;
+  white-space: nowrap;
+  margin-bottom: 54px;
+}
+
+#girly-designifinity section article .leftArticle .tiles ul.cards li.card {
+  display: inline-block;
+  width: 160px;
+  height: 180px;
+  border-radius: 16px;
+  background-color: #fff;
+  margin-top: 10px;
+  box-shadow: 1px 1px 4px #ebf4ff;
+  position: relative;
+}
+
+#girly-designifinity section article .leftArticle .tiles ul.cards li.card:nth-child(1) {
+  background-image: url('../assets/girl-pink.jpg');
+  background-size: cover;
+  background-position: 0 -36px;
+}
+
+#girly-designifinity section article .leftArticle .tiles ul.cards li.card:nth-child(2) {
+  background-image: url('../assets/girl-two.jpg');
+  background-size: cover;
+  background-position: 0 -36px;
+}
+
+#girly-designifinity section article .leftArticle .tiles ul.cards li.card:nth-child(even) {
+  margin-left: 10px;
+}
+
+#girly-designifinity section article .leftArticle .tiles ul.cards li.card.active {
+  border-color: #5de7fc;
+  border-style: solid;
+  border-width: 0;
+  cursor: pointer;
+  transition: ease-in-out 0.4s;
+}
+
+#girly-designifinity section article .leftArticle .tiles ul.cards li.card.active:after {
+  content: "Click to view!";
+  position: absolute;
+  background: rgb(91 232 253 / 90%);
+  width: 100%;
+  height: 100%;
+  left: 0;
+  bottom: 0;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: ease-in-out 0.3s;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 18px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+#girly-designifinity section article .leftArticle .tiles ul.cards li.card.active:hover:after {
+  opacity: 1;
+  transition: ease-in-out 0.3s;
+}
+
+#girly-designifinity section article .leftArticle .tiles ul.cards li.card p.name {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  top: calc(100% + 12px);
+  color: #333333;
+  font-weight: 500;
+  cursor: text;
+  pointer-events: none;
+}
+
+#girly-designifinity section article .leftArticle .popular h4 {
+  color: #333333;
+  font-size: 1.1em;
+  margin-bottom: 20px;
+}
+
+#girly-designifinity section article .leftArticle .popular ul li {
+  width: 100%;
+  padding: 8px;
+  background: #fff;
+  overflow: hidden;
+  border-radius: 14px;
+  box-shadow: 1px 1px 4px #ebf4ff;
+}
+
+#girly-designifinity section article .leftArticle .popular ul li div.thumbnail {
+  background-size: cover;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+}
+
+#girly-designifinity section article .leftArticle .popular ul li:nth-child(1) div.thumbnail {
+  background-image: url('../assets/thumbnail-1.png');
+}
+
+#girly-designifinity section article .leftArticle .popular ul li:nth-child(2) div.thumbnail {
+  background-image: url('../assets/thumbnail-2.png');
+}
+
+#girly-designifinity section article .leftArticle .popular ul li .content {
+  width: calc(100% - 110px);
+  height: 60px;
+}
+
+#girly-designifinity section article .leftArticle .popular ul li .content h4 {
+  font-size: 1em;
+  margin-bottom: 4px;
+  font-weight: 500;
+}
+
+#girly-designifinity section article .leftArticle .popular ul li .content p {
+  font-size: 12px;
+  line-height: 15px;
+}
+
+#girly-designifinity section article .leftArticle .popular ul li span#likeSmall {
+  width: 27px;
+}
+
+#girly-designifinity section article .leftArticle .popular ul li span#likeSmall i,
+#girly-designifinity section article .leftArticle .popular ul li span#likeSmall svg path {
+  font-size: 22px;
+  color: #e0e7f1;
+  fill: #e0e7f1;
+}
+
+#girly-designifinity section article span#upButton {
+  transform: scale(0);
+  display: flex;
+  float: left;
+  background: #ffffff;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  right: 30px;
+  width: 30px;
+  height: 30px;
+  border-radius: 8px;
+  position: absolute;
+  bottom: 30px;
+}
+
+#girly-designifinity section article span#upButton:hover i {
+  color: #5de7fc;
+  transition: ease-in-out 0.2s;
+}
+
+/*# sourceMappingURL=style.css.map */

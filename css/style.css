@@ -498,13 +498,13 @@ body section#work .workCategories .categoryGroup .category .portfolioGallery > u
   padding: 6px 0 0 0;
   position: relative;
 }
-body section#work .workCategories .categoryGroup .category .portfolioGallery > ul.album li {
+body section#work .workCategories .categoryGroup .category .portfolioGallery > ul.album > li {
   width: 200px;
   height: 200px;
   display: inline-block;
   background-size: contain;
 }
-body section#work .workCategories .categoryGroup .category .portfolioGallery > ul.album li.showHtml {
+body section#work .workCategories .categoryGroup .category .portfolioGallery > ul.album > li.showHtml {
   position: absolute;
   width: 100% !important;
   height: 100% !important;
@@ -512,8 +512,12 @@ body section#work .workCategories .categoryGroup .category .portfolioGallery > u
   top: 0;
   background-image: none !important;
 }
-body section#work .workCategories .categoryGroup .category .portfolioGallery > ul.album li.hide {
+body section#work .workCategories .categoryGroup .category .portfolioGallery > ul.album > li.showHtml.hideLiItems {
+  display: none;
+}
+body section#work .workCategories .categoryGroup .category .portfolioGallery > ul.album > li.hide {
   opacity: 0;
+  display: none;
 }
 body section#work .workCategories .categoryGroup .category.hide .categoryImage {
   opacity: 0;

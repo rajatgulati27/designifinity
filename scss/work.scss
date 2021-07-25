@@ -86,22 +86,28 @@ section#work {
                         padding: 6px 0 0 0;
                         position: relative;
 
-                        li {
+                        >li {
                             width: 200px;
                             height: 200px;
                             display: inline-block;
                             background-size: contain;
 
-                            &.showHtml{
+                            &.showHtml {
                                 position: absolute;
                                 width: 100% !important;
                                 height: 100% !important;
                                 right: 0;
                                 top: 0;
                                 background-image: none !important;
+
+                                &.hideLiItems {
+                                    display: none;
+                                }
                             }
-                            &.hide{
+
+                            &.hide {
                                 opacity: 0;
+                                display: none;
                             }
                         }
                     }
@@ -112,6 +118,7 @@ section#work {
                         opacity: 0;
                         @include transition(0.4s, 0.1s);
                     }
+
                     .portfolioGallery {
                         display: none;
                     }
